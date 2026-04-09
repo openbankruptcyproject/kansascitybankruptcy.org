@@ -10,3 +10,5 @@ Sitemap: https://kansascitybankruptcy.org/sitemap.xml
 
 # Crawl-delay (be friendly)
 Crawl-delay: 1
+
+Sitemap: https://kansascitybankruptcy.org/feed.xml

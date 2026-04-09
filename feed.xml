@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>kansascitybankruptcy.org -- Bankruptcy Information</title>
+  <subtitle>Free bankruptcy information and guides from the Open Bankruptcy Project</subtitle>
+  <link href="https://kansascitybankruptcy.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://kansascitybankruptcy.org/" rel="alternate" type="text/html"/>
+  <id>https://kansascitybankruptcy.org/</id>
+  <updated>2026-04-08T00:00:00Z</updated>
+  <author>
+    <name>Open Bankruptcy Project</name>
+    <uri>https://openbankruptcyproject.org</uri>
+  </author>
+  <rights>Copyright 2026 Open Bankruptcy Project</rights>
+  <entry>
+    <title>Kansas City Bankruptcy -- Chapter 7 &amp; 13 Filing Guide [2026]</title>
+    <link href="https://kansascitybankruptcy.org/" rel="alternate"/>
+    <id>https://kansascitybankruptcy.org/</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Free Kansas City bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Missouri and Kansas exemptions, filing costs, means test, and what to expect. 91,000+ local cases analyzed.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Your 341 Meeting in Kansas City: What to Expect</title>
+    <link href="https://kansascitybankruptcy.org/341-meeting.html" rel="alternate"/>
+    <id>https://kansascitybankruptcy.org/341-meeting.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Everything you need to know about your 341 meeting of creditors in Kansas City. Locations, what to bring, common questions, how long it takes, and.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>The Automatic Stay in Kansas City Bankruptcy</title>
+    <link href="https://kansascitybankruptcy.org/automatic-stay.html" rel="alternate"/>
+    <id>https://kansascitybankruptcy.org/automatic-stay.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Learn how the automatic stay protects Kansas City residents when filing bankruptcy.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bank Accounts and Bankruptcy in Kansas City -- Freezes, Exemptions, New Accounts</title>
+    <link href="https://kansascitybankruptcy.org/bank-account.html" rel="alternate"/>
+    <id>https://kansascitybankruptcy.org/bank-account.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Can creditors freeze your bank account in bankruptcy? Exempting bank funds in MO vs KS. Opening a new account after filing.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Can I Buy a Car While in Chapter 13? -- Kansas City</title>
+    <link href="https://kansascitybankruptcy.org/buy-car-chapter-13.html" rel="alternate"/>
+    <id>https://kansascitybankruptcy.org/buy-car-chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>You need trustee approval and a court motion to purchase a vehicle during Chapter 13. [Kansas City]</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Buying a House After Bankruptcy in Kansas City -- FHA, VA, Conventional Waiting Periods</title>
+    <link href="https://kansascitybankruptcy.org/buying-a-house.html" rel="alternate"/>
+    <id>https://kansascitybankruptcy.org/buying-a-house.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>When can you buy a house after bankruptcy in Kansas City? FHA (2 years Ch 7, 1 year Ch 13), VA (2 years), conventional (4 years Ch 7).</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Car Leases and Bankruptcy -- Kansas City</title>
+    <link href="https://kansascitybankruptcy.org/car-lease.html" rel="alternate"/>
+    <id>https://kansascitybankruptcy.org/car-lease.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>You have 60 days after filing to decide whether to assume (keep) or reject (surrender) your car lease. [Kansas City]</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 11 Bankruptcy in Kansas City -- Small Business Reorganization Guide</title>
+    <link href="https://kansascitybankruptcy.org/chapter-11.html" rel="alternate"/>
+    <id>https://kansascitybankruptcy.org/chapter-11.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Complete guide to Chapter 11 bankruptcy for Kansas City small businesses. Covers Subchapter V, debtor in possession, plan confirmation, 1191(a) vs.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Eligibility in Kansas City -- Debt Limits, Income, Prior Filing Bars</title>
+    <link href="https://kansascitybankruptcy.org/chapter-13-eligibility.html" rel="alternate"/>
+    <id>https://kansascitybankruptcy.org/chapter-13-eligibility.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Who qualifies for Chapter 13 bankruptcy in Kansas City? Debt limits ($2.75M), regular income requirement, prior filing bars, and disposable income rules.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Payment Plans in Kansas City -- How Payments Work, Trustee Info, Modifications</title>
+    <link href="https://kansascitybankruptcy.org/chapter-13-payments.html" rel="alternate"/>
+    <id>https://kansascitybankruptcy.org/chapter-13-payments.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How Chapter 13 payments work in Kansas City. Disposable income test, W.D. Mo. and D. Kan. trustee info, TFS payments, plan modifications.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+</feed>
