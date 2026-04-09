@@ -1,14 +1,5 @@
 User-agent: *
 Allow: /
 
-# Block non-content files
-Disallow: /seo_blitz.py
-Disallow: /*.txt$
-
-# Sitemap
 Sitemap: https://kansascitybankruptcy.org/sitemap.xml
-
-# Crawl-delay (be friendly)
-Crawl-delay: 1
-
 Sitemap: https://kansascitybankruptcy.org/feed.xml
