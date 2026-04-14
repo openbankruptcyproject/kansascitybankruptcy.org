@@ -1,4 +1,4 @@
-# Kansas City Bankruptcy -- Chapter 7 & 13 Filing Guide [2026]
+# Kansas City Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
 > Filing bankruptcy in Kansas City? Free 2026 guide with MO and KS exemptions, Chapter 7 vs 13, costs, and data from 91,000+ local cases.
 
 ## About
@@ -7,131 +7,132 @@ kansascitybankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyp
 ## Key Pages
 - Your 341 Meeting in Kansas City: What to Expect: https://kansascitybankruptcy.org/341-meeting.html
 - The Automatic Stay in Kansas City Bankruptcy: https://kansascitybankruptcy.org/automatic-stay.html
-- Bank Accounts and Bankruptcy in Kansas City -- Freezes, Exemptions, New Accounts: https://kansascitybankruptcy.org/bank-account.html
-- Can I Buy a Car While in Chapter 13? -- Kansas City: https://kansascitybankruptcy.org/buy-car-chapter-13.html
-- Buying a House After Bankruptcy in Kansas City -- FHA, VA, Conventional Waiting Periods: https://kansascitybankruptcy.org/buying-a-house.html
-- Car Leases and Bankruptcy -- Kansas City: https://kansascitybankruptcy.org/car-lease.html
-- Chapter 11 Bankruptcy in Kansas City -- Small Business Reorganization Guide: https://kansascitybankruptcy.org/chapter-11.html
-- Chapter 13 Eligibility in Kansas City -- Debt Limits, Income, Prior Filing Bars: https://kansascitybankruptcy.org/chapter-13-eligibility.html
-- Chapter 13 Payment Plans in Kansas City -- How Payments Work, Trustee Info, Modifications: https://kansascitybankruptcy.org/chapter-13-payments.html
-- Chapter 13 Bankruptcy in Kansas City -- Payment Plans, Dismissal Rates, Timeline: https://kansascitybankruptcy.org/chapter-13.html
-- Chapter 7 Eligibility in Kansas City -- Means Test, Income Limits, Prior Filing Bars: https://kansascitybankruptcy.org/chapter-7-eligibility.html
-- Chapter 7 vs Chapter 13 Bankruptcy in Kansas City -- Side-by-Side Comparison: https://kansascitybankruptcy.org/chapter-7-vs-chapter-13.html
-- Chapter 7 Bankruptcy in Kansas City -- Eligibility, Exemptions, Timeline: https://kansascitybankruptcy.org/chapter-7.html
-- Bankruptcy Filing Checklist: Kansas City -- Documents and Steps: https://kansascitybankruptcy.org/checklist.html
-- Bankruptcy in Baldwin City, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/baldwin-city.html
-- Bankruptcy in Basehor, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/basehor.html
-- Bankruptcy in Belton, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/belton.html
-- Bankruptcy in Blue Springs, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/blue-springs.html
-- Bankruptcy in Bonner Springs, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/bonner-springs.html
-- Bankruptcy in Buckner, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/buckner.html
-- Bankruptcy in De Soto, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/de-soto.html
-- Bankruptcy in Edgerton, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/edgerton.html
-- Bankruptcy in Eudora, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/eudora.html
-- Bankruptcy in Excelsior Springs, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/excelsior-springs.html
-- Bankruptcy in Gardner, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/gardner.html
-- Bankruptcy in Gladstone, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/gladstone.html
-- Bankruptcy in Grain Valley, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/grain-valley.html
-- Bankruptcy in Grandview, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/grandview.html
-- Bankruptcy in Harrisonville, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/harrisonville.html
-- Bankruptcy in Independence, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/independence.html
-- Kansas City Area Bankruptcy Guides by City -- MO &amp; KS Suburbs: https://kansascitybankruptcy.org/cities/
-- Bankruptcy in Kearney, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/kearney.html
-- Bankruptcy in Lansing, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/lansing.html
-- Bankruptcy in Leawood, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/leawood.html
-- Bankruptcy in Lee's Summit, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/lees-summit.html
-- Bankruptcy in Lenexa, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/lenexa.html
-- Bankruptcy in Liberty, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/liberty.html
-- Bankruptcy in Merriam, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/merriam.html
-- Bankruptcy in Mission, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/mission.html
-- Bankruptcy in North Kansas City, MO -- Filing Guide, Exemptions &amp; Resources: https://kansascitybankruptcy.org/cities/north-kansas-city.html
-- Bankruptcy in Oak Grove, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/oak-grove.html
-- Bankruptcy in Odessa, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/odessa.html
-- Bankruptcy in Olathe, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/olathe.html
-- Bankruptcy in Ottawa, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/ottawa.html
-- Bankruptcy in Overland Park, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/overland-park.html
-- Bankruptcy in Paola, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/paola.html
-- Bankruptcy in Parkville, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/parkville.html
-- Bankruptcy in Platte City, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/platte-city.html
-- Bankruptcy in Pleasant Hill, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/pleasant-hill.html
-- Bankruptcy in Prairie Village, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/prairie-village.html
-- Bankruptcy in Raymore, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/raymore.html
-- Bankruptcy in Raytown, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/raytown.html
-- Bankruptcy in Riverside, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/riverside.html
-- Bankruptcy in Shawnee, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/shawnee.html
-- Bankruptcy in Smithville, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/smithville.html
-- Bankruptcy in Spring Hill, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/spring-hill.html
-- Bankruptcy in Sugar Creek, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/sugar-creek.html
-- Bankruptcy in Tonganoxie, KS -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/tonganoxie.html
-- Bankruptcy in Warrensburg, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/warrensburg.html
-- Bankruptcy in Weatherby Lake, MO -- Filing Guide, Exemptions &amp; Resources -- Kansas City: https://kansascitybankruptcy.org/cities/weatherby-lake.html
-- Converting Between Chapter 7 and Chapter 13 in Kansas City -- When and How to Convert: https://kansascitybankruptcy.org/converting-chapters.html
-- How Much Does Bankruptcy Cost in Kansas City? -- Filing Fees, Attorney Fees: https://kansascitybankruptcy.org/cost.html
-- Bankruptcy by County -- Kansas City Metro Area: https://kansascitybankruptcy.org/counties.html
-- Bankruptcy in Cass County, MO -- Filing Guide &amp; Exemptions -- Kansas City: https://kansascitybankruptcy.org/counties/cass-county.html
-- Bankruptcy in Clay County, MO -- Kansas City Bankruptcy Guide: https://kansascitybankruptcy.org/counties/clay-county-mo.html
-- Bankruptcy in Douglas County, KS -- Filing Guide &amp; Exemptions -- Kansas City: https://kansascitybankruptcy.org/counties/douglas-county.html
-- Bankruptcy in Jackson County, MO -- Kansas City Bankruptcy Guide: https://kansascitybankruptcy.org/counties/jackson-county-mo.html
-- Bankruptcy in Johnson County, KS -- Kansas City Bankruptcy Guide: https://kansascitybankruptcy.org/counties/johnson-county-ks.html
-- Bankruptcy in Lafayette County, MO -- Filing Guide &amp; Exemptions -- Kansas City: https://kansascitybankruptcy.org/counties/lafayette-county.html
-- Bankruptcy in Leavenworth County, KS -- Filing Guide &amp; Exemptions -- Kansas City: https://kansascitybankruptcy.org/counties/leavenworth-county.html
-- Bankruptcy in Miami County, KS -- Filing Guide &amp; Exemptions -- Kansas City: https://kansascitybankruptcy.org/counties/miami-county-ks.html
-- Bankruptcy in Platte County, MO -- Kansas City Bankruptcy Guide: https://kansascitybankruptcy.org/counties/platte-county-mo.html
-- Bankruptcy in Ray County, MO -- Filing Guide &amp; Exemptions -- Kansas City: https://kansascitybankruptcy.org/counties/ray-county.html
-- Bankruptcy in Wyandotte County, KS -- Kansas City Bankruptcy Guide: https://kansascitybankruptcy.org/counties/wyandotte-county-ks.html
+- Bank Accounts and Bankruptcy in Kansas City - Freezes, Exemptions, New Accounts: https://kansascitybankruptcy.org/bank-account.html
+- Can I Buy a Car While in Chapter 13? - Kansas City: https://kansascitybankruptcy.org/buy-car-chapter-13.html
+- Buying a House After Bankruptcy in Kansas City - FHA, VA, Conventional Waiting Periods: https://kansascitybankruptcy.org/buying-a-house.html
+- Car Leases and Bankruptcy - Kansas City: https://kansascitybankruptcy.org/car-lease.html
+- Chapter 11 Bankruptcy in Kansas City - Small Business Reorganization Guide: https://kansascitybankruptcy.org/chapter-11.html
+- Chapter 13 Eligibility in Kansas City - Debt Limits, Income, Prior Filing Bars: https://kansascitybankruptcy.org/chapter-13-eligibility.html
+- Chapter 13 Payment Plans in Kansas City - How Payments Work, Trustee Info, Modifications: https://kansascitybankruptcy.org/chapter-13-payments.html
+- Chapter 13 Bankruptcy in Kansas City - Payment Plans, Dismissal Rates, Timeline: https://kansascitybankruptcy.org/chapter-13.html
+- Chapter 7 Eligibility in Kansas City - Means Test, Income Limits, Prior Filing Bars: https://kansascitybankruptcy.org/chapter-7-eligibility.html
+- Chapter 7 vs Chapter 13 Bankruptcy in Kansas City - Side-by-Side Comparison: https://kansascitybankruptcy.org/chapter-7-vs-chapter-13.html
+- Chapter 7 Bankruptcy in Kansas City - Eligibility, Exemptions, Timeline: https://kansascitybankruptcy.org/chapter-7.html
+- Bankruptcy Filing Checklist: Kansas City - Documents and Steps: https://kansascitybankruptcy.org/checklist.html
+- Bankruptcy in Baldwin City, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/baldwin-city.html
+- Bankruptcy in Basehor, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/basehor.html
+- Bankruptcy in Belton, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/belton.html
+- Bankruptcy in Blue Springs, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/blue-springs.html
+- Bankruptcy in Bonner Springs, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/bonner-springs.html
+- Bankruptcy in Buckner, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/buckner.html
+- Bankruptcy in De Soto, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/de-soto.html
+- Bankruptcy in Edgerton, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/edgerton.html
+- Bankruptcy in Eudora, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/eudora.html
+- Bankruptcy in Excelsior Springs, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/excelsior-springs.html
+- Bankruptcy in Gardner, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/gardner.html
+- Bankruptcy in Gladstone, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/gladstone.html
+- Bankruptcy in Grain Valley, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/grain-valley.html
+- Bankruptcy in Grandview, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/grandview.html
+- Bankruptcy in Harrisonville, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/harrisonville.html
+- Bankruptcy in Independence, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/independence.html
+- Kansas City Area Bankruptcy Guides by City - MO &amp; KS Suburbs: https://kansascitybankruptcy.org/cities/
+- Bankruptcy in Kearney, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/kearney.html
+- Bankruptcy in Lansing, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/lansing.html
+- Bankruptcy in Leawood, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/leawood.html
+- Bankruptcy in Lee's Summit, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/lees-summit.html
+- Bankruptcy in Lenexa, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/lenexa.html
+- Bankruptcy in Liberty, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/liberty.html
+- Bankruptcy in Merriam, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/merriam.html
+- Bankruptcy in Mission, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/mission.html
+- Bankruptcy in North Kansas City, MO - Filing Guide, Exemptions &amp; Resources: https://kansascitybankruptcy.org/cities/north-kansas-city.html
+- Bankruptcy in Oak Grove, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/oak-grove.html
+- Bankruptcy in Odessa, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/odessa.html
+- Bankruptcy in Olathe, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/olathe.html
+- Bankruptcy in Ottawa, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/ottawa.html
+- Bankruptcy in Overland Park, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/overland-park.html
+- Bankruptcy in Paola, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/paola.html
+- Bankruptcy in Parkville, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/parkville.html
+- Bankruptcy in Platte City, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/platte-city.html
+- Bankruptcy in Pleasant Hill, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/pleasant-hill.html
+- Bankruptcy in Prairie Village, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/prairie-village.html
+- Bankruptcy in Raymore, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/raymore.html
+- Bankruptcy in Raytown, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/raytown.html
+- Bankruptcy in Riverside, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/riverside.html
+- Bankruptcy in Shawnee, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/shawnee.html
+- Bankruptcy in Smithville, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/smithville.html
+- Bankruptcy in Spring Hill, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/spring-hill.html
+- Bankruptcy in Sugar Creek, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/sugar-creek.html
+- Bankruptcy in Tonganoxie, KS - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/tonganoxie.html
+- Bankruptcy in Warrensburg, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/warrensburg.html
+- Bankruptcy in Weatherby Lake, MO - Filing Guide, Exemptions &amp; Resources - Kansas City: https://kansascitybankruptcy.org/cities/weatherby-lake.html
+- Converting Between Chapter 7 and Chapter 13 in Kansas City - When and How to Convert: https://kansascitybankruptcy.org/converting-chapters.html
+- How Much Does Bankruptcy Cost in Kansas City? - Filing Fees, Attorney Fees: https://kansascitybankruptcy.org/cost.html
+- Bankruptcy by County - Kansas City Metro Area: https://kansascitybankruptcy.org/counties.html
+- Bankruptcy in Cass County, MO - Filing Guide &amp; Exemptions - Kansas City: https://kansascitybankruptcy.org/counties/cass-county.html
+- Bankruptcy in Clay County, MO - Kansas City Bankruptcy Guide: https://kansascitybankruptcy.org/counties/clay-county-mo.html
+- Bankruptcy in Douglas County, KS - Filing Guide &amp; Exemptions - Kansas City: https://kansascitybankruptcy.org/counties/douglas-county.html
+- Bankruptcy in Jackson County, MO - Kansas City Bankruptcy Guide: https://kansascitybankruptcy.org/counties/jackson-county-mo.html
+- Bankruptcy in Johnson County, KS - Kansas City Bankruptcy Guide: https://kansascitybankruptcy.org/counties/johnson-county-ks.html
+- Bankruptcy in Lafayette County, MO - Filing Guide &amp; Exemptions - Kansas City: https://kansascitybankruptcy.org/counties/lafayette-county.html
+- Bankruptcy in Leavenworth County, KS - Filing Guide &amp; Exemptions - Kansas City: https://kansascitybankruptcy.org/counties/leavenworth-county.html
+- Bankruptcy in Miami County, KS - Filing Guide &amp; Exemptions - Kansas City: https://kansascitybankruptcy.org/counties/miami-county-ks.html
+- Bankruptcy in Platte County, MO - Kansas City Bankruptcy Guide: https://kansascitybankruptcy.org/counties/platte-county-mo.html
+- Bankruptcy in Ray County, MO - Filing Guide &amp; Exemptions - Kansas City: https://kansascitybankruptcy.org/counties/ray-county.html
+- Bankruptcy in Wyandotte County, KS - Kansas City Bankruptcy Guide: https://kansascitybankruptcy.org/counties/wyandotte-county-ks.html
+- Kansas City Federal Bankruptcy Court Guide - W.D. Missouri Filing Information: https://kansascitybankruptcy.org/court-guide.html
 - Rebuilding Credit After Bankruptcy in Kansas City: https://kansascitybankruptcy.org/credit-after-bankruptcy.html
-- Credit Card Debt and Bankruptcy in Kansas City -- Discharge, Negotiate, or File?: https://kansascitybankruptcy.org/credit-card-debt.html
-- Using Credit Cards Before Filing Bankruptcy -- Kansas City: https://kansascitybankruptcy.org/credit-cards-before-filing.html
-- Kansas City Bankruptcy Credit Counseling -- Required Pre-Filing Course Guide: https://kansascitybankruptcy.org/credit-counseling.html
+- Credit Card Debt and Bankruptcy in Kansas City - Discharge, Negotiate, or File?: https://kansascitybankruptcy.org/credit-card-debt.html
+- Using Credit Cards Before Filing Bankruptcy - Kansas City: https://kansascitybankruptcy.org/credit-cards-before-filing.html
+- Kansas City Bankruptcy Credit Counseling - Required Pre-Filing Course Guide: https://kansascitybankruptcy.org/credit-counseling.html
 - What Debts Can Be Discharged in Kansas City Bankruptcy?: https://kansascitybankruptcy.org/debt-types.html
-- Kansas City Bankruptcy Debtor Education Course -- Required Steps &amp; Approved Providers: https://kansascitybankruptcy.org/debtor-education.html
+- Kansas City Bankruptcy Debtor Education Course - Required Steps &amp; Approved Providers: https://kansascitybankruptcy.org/debtor-education.html
 - What Disqualifies You From Filing Bankruptcy? Kansas City Guide to Eligibility Bars: https://kansascitybankruptcy.org/disqualifications.html
-- Find Your Bankruptcy District -- Kansas City Bankruptcy Guide: https://kansascitybankruptcy.org/district-lookup.html
-- Divorce and Bankruptcy in Kansas City -- Filing Before or After, Joint vs Individual: https://kansascitybankruptcy.org/divorce-and-bankruptcy.html
-- Emergency Bankruptcy Filing in Kansas City -- Same-Day Filing to Stop Foreclosure, Repo, Garnishment: https://kansascitybankruptcy.org/emergency-bankruptcy.html
-- Emergency Bankruptcy Filing in Kansas City -- Same-Day Filing to Stop Garnishment, Repo, Foreclosure: https://kansascitybankruptcy.org/emergency-filing.html
-- Bankruptcy and Employment: Can You Get Fired? -- Kansas City: https://kansascitybankruptcy.org/employment.html
-- Can I Keep My Engagement Ring in Bankruptcy? -- Kansas City: https://kansascitybankruptcy.org/engagement-ring.html
-- Can Bankruptcy Stop an Eviction? -- Kansas City: https://kansascitybankruptcy.org/eviction.html
-- Missouri Bankruptcy Exemptions -- What You Can Keep -- Kansas City: https://kansascitybankruptcy.org/exemptions.html
-- Kansas City Bankruptcy FAQ -- 18 Common Questions Answered: https://kansascitybankruptcy.org/faq.html
-- How to Find Out if Someone Filed Bankruptcy -- Kansas City: https://kansascitybankruptcy.org/find-bankruptcy-filing.html
-- Stop Foreclosure in Kansas City with Bankruptcy -- Missouri and Kansas: https://kansascitybankruptcy.org/foreclosure.html
-- Bankruptcy Glossary -- 45+ Terms -- Kansas City: https://kansascitybankruptcy.org/glossary.html
-- 2026 Bankruptcy Income Limits for Missouri and Kansas -- Means Test Median Income -- Kansas City: https://kansascitybankruptcy.org/income-limits.html
-- Kansas City Bankruptcy -- Chapter 7 & 13 Filing Guide: https://kansascitybankruptcy.org/
-- Judgments, Liens, and Bankruptcy in Kansas City -- Lien Avoidance Under 522(f): https://kansascitybankruptcy.org/judgments.html
+- Find Your Bankruptcy District - Kansas City Bankruptcy Guide: https://kansascitybankruptcy.org/district-lookup.html
+- Divorce and Bankruptcy in Kansas City - Filing Before or After, Joint vs Individual: https://kansascitybankruptcy.org/divorce-and-bankruptcy.html
+- Emergency Bankruptcy Filing in Kansas City - Same-Day Filing to Stop Foreclosure, Repo, Garnishment: https://kansascitybankruptcy.org/emergency-bankruptcy.html
+- Emergency Bankruptcy Filing in Kansas City - Same-Day Filing to Stop Garnishment, Repo, Foreclosure: https://kansascitybankruptcy.org/emergency-filing.html
+- Bankruptcy and Employment: Can You Get Fired? - Kansas City: https://kansascitybankruptcy.org/employment.html
+- Can I Keep My Engagement Ring in Bankruptcy? - Kansas City: https://kansascitybankruptcy.org/engagement-ring.html
+- Can Bankruptcy Stop an Eviction? - Kansas City: https://kansascitybankruptcy.org/eviction.html
+- Missouri Bankruptcy Exemptions - What You Can Keep - Kansas City: https://kansascitybankruptcy.org/exemptions.html
+- Kansas City Bankruptcy FAQ - 18 Common Questions Answered: https://kansascitybankruptcy.org/faq.html
+- How to Find Out if Someone Filed Bankruptcy - Kansas City: https://kansascitybankruptcy.org/find-bankruptcy-filing.html
+- Stop Foreclosure in Kansas City with Bankruptcy - Missouri and Kansas: https://kansascitybankruptcy.org/foreclosure.html
+- Bankruptcy Glossary - 45+ Terms - Kansas City: https://kansascitybankruptcy.org/glossary.html
+- 2026 Bankruptcy Income Limits for Missouri and Kansas - Means Test Median Income - Kansas City: https://kansascitybankruptcy.org/income-limits.html
+- Kansas City Bankruptcy - Chapter 7 & 13 Filing Guide: https://kansascitybankruptcy.org/
+- Judgments, Liens, and Bankruptcy in Kansas City - Lien Avoidance Under 522(f): https://kansascitybankruptcy.org/judgments.html
 - Can I Keep My Car in Kansas City Bankruptcy?: https://kansascitybankruptcy.org/keep-your-car.html
 - Can I Keep My House in Kansas City Bankruptcy?: https://kansascitybankruptcy.org/keep-your-house.html
 - Free Legal Help for Bankruptcy in Kansas City: https://kansascitybankruptcy.org/legal-aid.html
 - Kansas City Means Test: Do You Qualify for Chapter 7?: https://kansascitybankruptcy.org/means-test.html
-- Can I File Bankruptcy on Medical Debt Only? -- Kansas City: https://kansascitybankruptcy.org/medical-debt-only.html
+- Can I File Bankruptcy on Medical Debt Only? - Kansas City: https://kansascitybankruptcy.org/medical-debt-only.html
 - Medical Debt and Bankruptcy in Kansas City: https://kansascitybankruptcy.org/medical-debt.html
-- Missouri vs Kansas Bankruptcy -- Which Side Are You On? -- Kansas City: https://kansascitybankruptcy.org/missouri-vs-kansas.html
-- Non-Dischargeable Debts -- What Bankruptcy Cannot Eliminate -- Kansas City: https://kansascitybankruptcy.org/non-dischargeable-debts.html
-- Payday Loan Debt and Bankruptcy in Kansas City -- Dischargeable, MO vs KS Laws: https://kansascitybankruptcy.org/payday-loans.html
-- Can I Undo a Reaffirmation Agreement? -- Kansas City: https://kansascitybankruptcy.org/reaffirmation-regret.html
-- Reaffirmation Agreements in Bankruptcy -- When to Sign, When to Refuse -- Kansas City: https://kansascitybankruptcy.org/reaffirmation.html
-- Renting an Apartment After Bankruptcy -- Kansas City: https://kansascitybankruptcy.org/renting-after-bankruptcy.html
-- Can Bankruptcy Remove a Repossession From Your Credit? -- Kansas City: https://kansascitybankruptcy.org/repo-credit-report.html
+- Missouri vs Kansas Bankruptcy - Which Side Are You On? - Kansas City: https://kansascitybankruptcy.org/missouri-vs-kansas.html
+- Non-Dischargeable Debts - What Bankruptcy Cannot Eliminate - Kansas City: https://kansascitybankruptcy.org/non-dischargeable-debts.html
+- Payday Loan Debt and Bankruptcy in Kansas City - Dischargeable, MO vs KS Laws: https://kansascitybankruptcy.org/payday-loans.html
+- Can I Undo a Reaffirmation Agreement? - Kansas City: https://kansascitybankruptcy.org/reaffirmation-regret.html
+- Reaffirmation Agreements in Bankruptcy - When to Sign, When to Refuse - Kansas City: https://kansascitybankruptcy.org/reaffirmation.html
+- Renting an Apartment After Bankruptcy - Kansas City: https://kansascitybankruptcy.org/renting-after-bankruptcy.html
+- Can Bankruptcy Remove a Repossession From Your Credit? - Kansas City: https://kansascitybankruptcy.org/repo-credit-report.html
 - Stop Car Repossession in Kansas City with Bankruptcy: https://kansascitybankruptcy.org/repossession.html
-- Kansas City Bankruptcy Resources -- Courts, Legal Aid, Credit Counseling: https://kansascitybankruptcy.org/resources.html
-- Retirement Accounts and Bankruptcy in Kansas City -- 401(k), IRA, Pension Protection: https://kansascitybankruptcy.org/retirement-accounts.html
-- Stripping Second Mortgages in Kansas City Bankruptcy -- Lien Strip in Chapter 13: https://kansascitybankruptcy.org/second-mortgage.html
-- Bankruptcy and Security Clearance -- Kansas City: https://kansascitybankruptcy.org/security-clearance.html
-- Small Business Bankruptcy in Kansas City -- Chapter 7, 11, and 13 Options: https://kansascitybankruptcy.org/small-business.html
-- Kansas City Bankruptcy Statistics -- 91,497 Cases Analyzed: https://kansascitybankruptcy.org/statistics.html
-- What Bills Can I Stop Paying Before Filing? -- Kansas City: https://kansascitybankruptcy.org/stop-paying-bills.html
+- Kansas City Bankruptcy Resources - Courts, Legal Aid, Credit Counseling: https://kansascitybankruptcy.org/resources.html
+- Retirement Accounts and Bankruptcy in Kansas City - 401(k), IRA, Pension Protection: https://kansascitybankruptcy.org/retirement-accounts.html
+- Stripping Second Mortgages in Kansas City Bankruptcy - Lien Strip in Chapter 13: https://kansascitybankruptcy.org/second-mortgage.html
+- Bankruptcy and Security Clearance - Kansas City: https://kansascitybankruptcy.org/security-clearance.html
+- Small Business Bankruptcy in Kansas City - Chapter 7, 11, and 13 Options: https://kansascitybankruptcy.org/small-business.html
+- Kansas City Bankruptcy Statistics - 91,497 Cases Analyzed: https://kansascitybankruptcy.org/statistics.html
+- What Bills Can I Stop Paying Before Filing? - Kansas City: https://kansascitybankruptcy.org/stop-paying-bills.html
 - Student Loan Debt and Bankruptcy in Kansas City: https://kansascitybankruptcy.org/student-loans.html
-- Surrendering Your Car in Bankruptcy -- Kansas City: https://kansascitybankruptcy.org/surrender-car.html
-- Tax Debt and Bankruptcy in Kansas City -- Which Taxes Can Be Discharged?: https://kansascitybankruptcy.org/tax-debt.html
-- Will the Chapter 13 Trustee Take My Tax Refund? -- Kansas City: https://kansascitybankruptcy.org/tax-refund-chapter13.html
+- Surrendering Your Car in Bankruptcy - Kansas City: https://kansascitybankruptcy.org/surrender-car.html
+- Tax Debt and Bankruptcy in Kansas City - Which Taxes Can Be Discharged?: https://kansascitybankruptcy.org/tax-debt.html
+- Will the Chapter 13 Trustee Take My Tax Refund? - Kansas City: https://kansascitybankruptcy.org/tax-refund-chapter13.html
 - Complete Bankruptcy Timeline: Kansas City Filing to Discharge: https://kansascitybankruptcy.org/timeline.html
-- Timeshares and Bankruptcy -- Kansas City: https://kansascitybankruptcy.org/timeshare.html
-- Can I Travel During Chapter 13? -- Kansas City: https://kansascitybankruptcy.org/travel-chapter-13.html
+- Timeshares and Bankruptcy - Kansas City: https://kansascitybankruptcy.org/timeshare.html
+- Can I Travel During Chapter 13? - Kansas City: https://kansascitybankruptcy.org/travel-chapter-13.html
 - Stop Wage Garnishment in Kansas City: https://kansascitybankruptcy.org/wage-garnishment.html
-- What to Expect When Filing Bankruptcy -- Timeline, 341 Meeting, Discharge -- Kansas City: https://kansascitybankruptcy.org/what-to-expect.html
-- Kansas City Federal Bankruptcy Court Guide -- W.D. Missouri Filing Information: https://kansascitybankruptcy.org/court-guide.html
+- What to Expect When Filing Bankruptcy - Timeline, 341 Meeting, Discharge - Kansas City: https://kansascitybankruptcy.org/what-to-expect.html
+- Privacy Policy: https://kansascitybankruptcy.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
