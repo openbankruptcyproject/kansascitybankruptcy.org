@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kansascitybankruptcy.org/sitemap.xml
-Sitemap: https://kansascitybankruptcy.org/feed.xml
+
+Sitemap: https://kansascitybankruptcy.org/sitemapindex.xml
