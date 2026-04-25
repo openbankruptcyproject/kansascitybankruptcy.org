@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Student Loan Debt and Bankruptcy in Kansas City</title>
+<meta content="Can you discharge student loans in bankruptcy in Kansas City? Brunner test, DOJ guidance, adversary proceedings, and income-driven repayment." name="description"/>
+<link href="favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="https://kansascitybankruptcy.org/student-loans.html" rel="canonical"/>
+<!-- BTN:GA4:START -->
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-053Z64N82F');gtag('config','G-FTWLM223G7');</script>
+<!-- BTN:GA4:END -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {"@type":"Question","name":"Can student loans be discharged in bankruptcy?","acceptedAnswer":{"@type":"Answer","text":"Yes, but it requires an additional step. Student loans are not automatically discharged like credit cards or medical debt. You must file a separate lawsuit within your bankruptcy case called an adversary proceeding and prove that repaying the loans would impose an undue hardship on you and your dependents. Both the Western District of Missouri and the District of Kansas use the Brunner test to evaluate undue hardship."}},
+    {"@type":"Question","name":"What is the Brunner test?","acceptedAnswer":{"@type":"Answer","text":"The Brunner test is a three-part test used by most federal courts, including both W.D. Mo. and D. Kan., to determine if student loans cause undue hardship. You must prove: (1) you cannot maintain a minimal standard of living if forced to repay, (2) your financial situation is likely to persist for a significant portion of the repayment period, and (3) you have made good-faith efforts to repay the loans."}},
+    {"@type":"Question","name":"What is the 2022 DOJ guidance on student loan discharge?","acceptedAnswer":{"@type":"Answer","text":"In November 2022, the Department of Justice issued new guidance making it easier to discharge federal student loans in bankruptcy. The DOJ now uses a standardized attestation form to evaluate cases and will recommend discharge or partial discharge when the evidence supports it, rather than automatically opposing every case. This has significantly increased the success rate of student loan discharge cases."}},
+    {"@type":"Question","name":"What is an adversary proceeding for student loans?","acceptedAnswer":{"@type":"Answer","text":"An adversary proceeding is a separate lawsuit filed within your bankruptcy case specifically to determine whether your student loans can be discharged. It has its own case number, requires a complaint, and may involve discovery and a trial. The cost of filing an adversary proceeding is an additional $350 on top of your bankruptcy filing fee, and your attorney may charge separately for this work."}},
+    {"@type":"Question","name":"Can I get a partial discharge of student loans?","acceptedAnswer":{"@type":"Answer","text":"Yes. Courts can discharge part of your student loan debt even if they do not discharge all of it. For example, a court might discharge the accrued interest while requiring you to repay the principal, or discharge a percentage of the total balance. Partial discharge has become more common under the 2022 DOJ guidance."}},
+    {"@type":"Question","name":"What are alternatives to discharging student loans in bankruptcy?","acceptedAnswer":{"@type":"Answer","text":"If discharge is not likely, alternatives include: income-driven repayment plans (IBR, PAYE, REPAYE/SAVE) that cap payments at a percentage of discretionary income, Public Service Loan Forgiveness (PSLF) for qualifying employment, teacher loan forgiveness, closed school discharge, borrower defense to repayment, and total and permanent disability discharge. Filing Chapter 13 can also put federal student loans into forbearance during your plan."}}
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Student Loan Debt and Bankruptcy in Kansas City",
+      "description": "Can you discharge student loans in bankruptcy in Kansas City? The Brunner test, 2022 DOJ guidance, adversary proceedings, and alternatives for W.D. Mo. and D. Kan.",
+      "author": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project",
+        "url": "https://1328f.org"
+      },
+      "datePublished": "2026-04-05",
+      "dateModified": "2026-04-05",
+      "mainEntityOfPage": "https://kansascitybankruptcy.org/student-loans.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://kansascitybankruptcy.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kansas City Bankruptcy Guide",
+          "item": "https://kansascitybankruptcy.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Student Loans",
+          "item": "https://kansascitybankruptcy.org/student-loans.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "name": "Student Loan Debt and Bankruptcy in Kansas City",
+      "url": "https://kansascitybankruptcy.org/student-loans.html",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".quick-answer",
+          "h1",
+          ".summary",
+          "p:first-of-type"
+        ]
+      }
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "name": "BTN Network",
+      "url": [
+        "https://1328f.com",
+        "https://1328f.org",
+        "https://automaticstay.org",
+        "https://341meeting.org",
+        "https://523a.org",
+        "https://109g.org",
+        "https://727a8.com",
+        "https://meanstest.org",
+        "https://chapter7vs13.org",
+        "https://howtofilebankruptcy.org"
+      ]
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "HowTo",
+      "name": "Student Loan Debt and Bankruptcy in Kansas City",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-053Z64N82F');gtag('config','G-FTWLM223G7');\n\n{\n  \""
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Recommendations for discharge: When the evidence supports it, the DOJ will affirmatively recommend full or partial discharge to the court rather than forcing a contested trial."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Partial discharge: The DOJ will recommend partial discharge when full discharge is not warranted (for example, discharging interest while preserving the principal obligation)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Faster resolution: Cases are resolved more quickly because the government is no longer automatically contesting every case."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "File your bankruptcy case - either Chapter 7 or Chapter 13. The adversary proceeding is filed within the bankruptcy case."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "text": "File the adversary complaint - a separate lawsuit naming the student loan holder as defendant. Filing fee: $350. The complaint must allege undue hardship under all three Brunner prongs."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "text": "Complete the DOJ attestation form (federal loans) - your attorney submits the standardized form documenting your financial situation, medical conditions, employment history, and repayment efforts."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "Discovery - both sides exchange documents and information. The lender may request tax returns, pay stubs, medical records, and loan payment history."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "Settlement or trial - many cases now settle (especially federal loans under the DOJ guidance). If not, the case goes to trial before the bankruptcy judge."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 10,
+          "text": "Court decision - the judge rules on whether full discharge, partial discharge, or no discharge is appropriate."
+        }
+      ]
+    }
+  ]
+}
+</script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;line-height:1.6}
+a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+nav{background:#161b22;border-bottom:1px solid #30363d;padding:12px 0;position:sticky;top:0;z-index:100}
+nav .container{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+nav .brand{color:#f0f6fc;font-weight:700;font-size:1.1rem}
+nav .links{display:flex;gap:16px;flex-wrap:wrap}
+nav .links a{color:#8b949e;font-size:0.9rem}nav .links a:hover{color:#58a6ff}
+.hero{padding:60px 0 40px;text-align:center;border-bottom:1px solid #30363d}
+.hero h1{color:#f0f6fc;font-size:2.4rem;margin-bottom:12px}
+.hero .subtitle{color:#8b949e;font-size:1.15rem;max-width:700px;margin:0 auto 24px}
+section{padding:40px 0;border-bottom:1px solid #21262d}
+h2{color:#f0f6fc;font-size:1.8rem;margin-bottom:16px}
+h3{color:#f0f6fc;font-size:1.3rem;margin-bottom:12px}
+p{margin-bottom:16px}
+.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin-bottom:20px}
+.compare-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:20px 0}
+.compare-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:20px}
+.compare-card h3{font-size:1.1rem;margin-bottom:10px}
+table{width:100%;border-collapse:collapse;margin:16px 0}
+th,td{padding:12px 16px;text-align:left;border-bottom:1px solid #30363d}
+th{color:#f0f6fc;background:#161b22;font-weight:600}
+td{color:#c9d1d9}
+.test-prong{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:20px;margin-bottom:16px}
+.test-prong h3{display:flex;align-items:center;gap:10px}
+.prong-num{display:inline-block;background:#1f6feb;color:#fff;width:32px;height:32px;border-radius:50%;text-align:center;line-height:32px;font-weight:700;font-size:0.95rem;flex-shrink:0}
+.faq-item{background:#161b22;border:1px solid #30363d;border-radius:8px;margin-bottom:12px;overflow:hidden}
+.faq-item summary{padding:16px 20px;cursor:pointer;color:#f0f6fc;font-weight:600;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.faq-item summary::after{content:"+";color:#58a6ff;font-size:1.3rem;font-weight:700}
+.faq-item[open] summary::after{content:"-"}
+.faq-item .answer{padding:0 20px 16px;color:#c9d1d9}
+.network{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin:32px 0}
+.network h3{margin-bottom:12px}
+.network-links{display:flex;flex-wrap:wrap;gap:8px}
+.network-links a{background:#21262d;padding:6px 14px;border-radius:16px;font-size:0.85rem;border:1px solid #30363d}
+.network-links a:hover{border-color:#58a6ff;background:#161b22}
+footer{background:#161b22;border-top:1px solid #30363d;padding:32px 0;text-align:center;color:#8b949e;font-size:0.85rem}
+footer a{color:#58a6ff}footer p{margin-bottom:8px}
+.cta{display:inline-block;background:#238636;color:#fff;padding:12px 28px;border-radius:6px;font-weight:600;margin-top:12px;font-size:1rem}
+.cta:hover{background:#2ea043;text-decoration:none}
+ul,ol{margin:12px 0 12px 24px}li{margin-bottom:6px}
+.disclaimer{background:#f8514920;border:1px solid #f85149;border-radius:8px;padding:16px 24px;margin:24px 0;color:#f85149;font-size:0.9rem}
+.highlight-box{background:#1f6feb20;border:1px solid #1f6feb;border-radius:8px;padding:20px 24px;margin:24px 0}
+@media(max-width:768px){.hero h1{font-size:1.7rem}.compare-grid{grid-template-columns:1fr}}
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+<link href="https://kansascitybankruptcy.org/student-loans.html" hreflang="en" rel="alternate"/>
+<link href="https://kansascitybankruptcy.org/student-loans-es.html" hreflang="es" rel="alternate"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Kansascity Bankruptcy Information",
+  "description": "Free bankruptcy information and resources for Kansascity residents.",
+  "url": "https://kansascitybankruptcy.org/",
+  "areaServed": {
+    "@type": "City",
+    "name": "Kansascity"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "Open Bankruptcy Project",
+    "url": "https://openbankruptcyproject.org"
+  },
+  "serviceType": "Bankruptcy Information",
+  "isAccessibleForFree": true
+}
+</script>
+<meta content="/og-image.svg" property="og:image"/>
+<meta content="/og-image.svg" name="twitter:image"/>
+</head>
+<body>
+<nav><div class="container"><a class="brand" href="/">Kansas City Bankruptcy Guide</a><div class="links"><a href="/">Home</a><a href="chapter-7.html">Chapter 7</a><a href="chapter-13.html">Chapter 13</a><a href="exemptions.html">Exemptions</a><a href="cost.html">Cost</a><a href="counties.html">Counties</a><a href="faq.html">FAQ</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://kansascitybankruptcy.org">Kansas City Bankruptcy Guide</a><span class="separator">›</span><span>Student Loans</span></nav>
+<div class="hero"><div class="container">
+<h1>Student Loan Debt and Bankruptcy in Kansas City</h1>
+<p class="subtitle">Student loan <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> in bankruptcy is difficult but not impossible. Recent DOJ guidance has made it significantly easier. Both the Western District of Missouri and the District of Kansas use the <a href="https://brunnertest.org/" title="Brunner test">Brunner test</a>. Here is what Kansas City residents need to know.</p>
+</div></div>
+<div class="container">
+<div class="disclaimer">This page provides general educational information, not legal advice. Student loan <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> cases are complex and fact-specific. Consult a qualified attorney for advice about your specific situation.</div>
+</div>
+<section><div class="container">
+<h2>Can Student Loans Be Discharged in Bankruptcy?</h2>
+<div class="card">
+<p>Yes, but it requires an additional step beyond a regular bankruptcy filing. Under 11 U.S.C. <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">section 523</a>(a)(8), <a href="https://bankruptcystudentloans.org/" title="student loans">student loans</a> are presumed <a href="https://nondischargeable.org/" title="nondischargeable">non-dischargeable</a> unless you can prove that repaying them would impose an <strong>"undue <a href="https://bankruptcyhardship.org/" title="hardship discharge">hardship</a>"</strong> on you and your dependents.</p>
+<p>To seek discharge, you must file a separate lawsuit within your bankruptcy case called an <strong>adversary proceeding</strong>. This is a full litigation process with its own complaint, discovery, and potentially a trial.</p>
+<p>The important thing to know: the landscape has shifted significantly since 2022. Student loan discharges are now more achievable than at any point in the past two decades.</p>
+</div>
+</div></section>
+<section><div class="container">
+<h2>The Brunner Test</h2>
+<p>Both the Western District of Missouri (8th Circuit) and the District of Kansas (10th Circuit) apply the <strong><a href="https://brunnertest.org/" title="Brunner test">Brunner test</a></strong>, established in <em>Brunner v. New York State Higher Education Services Corp.</em>, 831 F.2d 395 (2d Cir. 1987). You must satisfy all three prongs:</p>
+<div class="test-prong">
+<h3><span class="prong-num">1</span>Cannot Maintain Minimal Standard of Living</h3>
+<p>Based on your current income and expenses, you cannot maintain a minimal standard of living for yourself and your dependents if forced to repay the student loans. This is not about maintaining your current lifestyle - it is about basic necessities. Courts look at whether you can afford food, shelter, clothing, transportation, and basic medical care while making loan payments.</p>
+</div>
+<div class="test-prong">
+<h3><span class="prong-num">2</span>Circumstances Likely to Persist</h3>
+<p>Additional circumstances exist indicating that your financial <a href="https://bankruptcyhardship.org/" title="hardship discharge">hardship</a> is likely to persist for a significant portion of the repayment period. Courts look for factors such as chronic illness or disability, age (especially older borrowers near retirement), limited education or job skills, a history of low earnings, or other conditions that make improvement unlikely. This prong has historically been the hardest to satisfy.</p>
+</div>
+<div class="test-prong">
+<h3><span class="prong-num">3</span>Good-Faith Effort to Repay</h3>
+<p>You have made good-faith efforts to repay the loans. This does not necessarily mean you must have made payments. Courts consider whether you applied for income-driven repayment plans, deferments, or forbearances. Enrolling in IDR plans and making whatever payments you could demonstrates <a href="https://chapter13plan.org/" title="good faith">good faith</a>, even if those payments were $0.</p>
+</div>
+<p style="color:#8b949e;font-size:0.9rem;margin-top:16px">Note: Some circuits are moving toward a "totality of circumstances" test that is generally considered more flexible than Brunner. The 8th Circuit (which covers W.D. Mo.) has shown some openness to this approach, but Brunner remains the primary framework. The 10th Circuit (D. Kan.) applies Brunner.</p>
+</div></section>
+<section><div class="container">
+<h2>2022 DOJ Guidance: A Game Changer</h2>
+<div class="highlight-box">
+<h3 style="color:#58a6ff">What Changed</h3>
+<p>In November 2022, the Department of Justice issued new guidance fundamentally changing how the federal government handles student loan discharge cases in bankruptcy:</p>
+<ul>
+<li><strong>Standardized attestation form:</strong> The DOJ now uses a standardized form (the "attestation") to evaluate cases consistently rather than reflexively opposing every discharge request.</li>
+<li><strong>Recommendations for discharge:</strong> When the evidence supports it, the DOJ will affirmatively recommend full or partial discharge to the court rather than forcing a contested trial.</li>
+<li><strong>Partial discharge:</strong> The DOJ will recommend partial discharge when full discharge is not warranted (for example, discharging interest while preserving the principal obligation).</li>
+<li><strong>Faster resolution:</strong> Cases are resolved more quickly because the government is no longer automatically contesting every case.</li>
+</ul>
+</div>
+<div class="card">
+<p><strong>What this means for Kansas City filers:</strong> If you have federal student loans and file an adversary proceeding, the DOJ will evaluate your case on the merits using the attestation form. If you clearly qualify under Brunner, the government may agree to discharge without a trial. This has dramatically increased the success rate and reduced the cost and complexity of student loan discharge cases.</p>
+<p style="color:#8b949e;font-size:0.9rem">Note: The DOJ guidance applies only to federal student loans held by the Department of Education. Private student loans (from banks, Sallie Mae/Navient, etc.) are handled differently and the lender will make its own decision about whether to contest discharge.</p>
+</div>
+</div></section>
+<section><div class="container">
+<h2>The Adversary Proceeding Process</h2>
+<div class="card">
+<ol>
+<li style="margin-bottom:12px"><strong>File your bankruptcy case</strong> - either <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> or <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>. The adversary proceeding is filed within the bankruptcy case.</li>
+<li style="margin-bottom:12px"><strong>File the adversary complaint</strong> - a separate lawsuit naming the student loan holder as defendant. Filing fee: $350. The complaint must allege <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a> under all three Brunner prongs.</li>
+<li style="margin-bottom:12px"><strong>Complete the DOJ attestation form</strong> (federal loans) - your attorney submits the standardized form documenting your financial situation, medical conditions, employment history, and repayment efforts.</li>
+<li style="margin-bottom:12px"><strong>Discovery</strong> - both sides exchange documents and information. The lender may request tax returns, pay stubs, medical records, and loan payment history.</li>
+<li style="margin-bottom:12px"><strong>Settlement or trial</strong> - many cases now settle (especially federal loans under the DOJ guidance). If not, the case goes to trial before the bankruptcy judge.</li>
+<li style="margin-bottom:12px"><strong>Court decision</strong> - the judge rules on whether full discharge, partial discharge, or no discharge is appropriate.</li>
+</ol>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Alternatives to Discharge</h2>
+<p>If discharge is not likely in your case, or you want to explore other options first, consider these alternatives:</p>
+<div class="card">
+<h3>Income-Driven Repayment Plans</h3>
+<p>Federal student loans offer several income-driven plans that cap monthly payments based on income and family size:</p>
+<table>
+<thead><tr><th>Plan</th><th>Payment Cap</th><th>Forgiveness After</th></tr></thead>
+<tbody>
+<tr><td>SAVE (formerly REPAYE)</td><td>5-10% of discretionary income</td><td>20-25 years</td></tr>
+<tr><td>PAYE</td><td>10% of discretionary income</td><td>20 years</td></tr>
+<tr><td>IBR</td><td>10-15% of discretionary income</td><td>20-25 years</td></tr>
+<tr><td>ICR</td><td>20% of discretionary income</td><td>25 years</td></tr>
+</tbody>
+</table>
+<p style="color:#8b949e;font-size:0.9rem">Payments can be as low as $0/month if your income is below 225% of the poverty line (under SAVE). Check StudentAid.gov for current program details.</p>
+</div>
+<div class="card">
+<h3>Other Forgiveness Programs</h3>
+<ul>
+<li><strong>Public Service Loan Forgiveness (PSLF):</strong> Tax-free forgiveness after 120 qualifying payments while working full-time for a government agency or 501(c)(3) nonprofit.</li>
+<li><strong>Teacher Loan Forgiveness:</strong> Up to $17,500 forgiven after 5 years teaching at a qualifying low-income school.</li>
+<li><strong>Total and Permanent Disability (TPD) Discharge:</strong> Full discharge if you are permanently disabled. Apply through the Department of Education.</li>
+<li><strong>Closed School Discharge:</strong> If your school closed while you were enrolled or shortly after withdrawal.</li>
+<li><strong>Borrower Defense to Repayment:</strong> If your school engaged in fraud or certain misconduct.</li>
+</ul>
+</div>
+<div class="card">
+<h3>Chapter 13 and Student Loans</h3>
+<p>Even without discharge, <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> can help manage <a href="https://bankruptcystudentloans.org/" title="student loans">student loan debt</a>:</p>
+<ul>
+<li>Federal student loans are placed in <strong>forbearance</strong> during your <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> (no payments required, though interest may accrue)</li>
+<li>Your plan payments go to higher-priority debts first, protecting you from default on other obligations</li>
+<li>You can file an adversary proceeding during your Chapter 13 case</li>
+<li>The breathing room may allow you to stabilize finances before resuming payments</li>
+</ul>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Frequently Asked Questions</h2>
+<details class="faq-item"><summary>Can student loans be discharged in bankruptcy?</summary><div class="answer"><p>Yes, but you must file a separate adversary proceeding and prove undue hardship under the Brunner test. Both W.D. Mo. and D. Kan. use this test. The 2022 DOJ guidance has made discharge significantly more achievable. <a href="https://bankruptcystudentloans.org">Learn more at bankruptcystudentloans.org</a>.</p></div></details>
+<details class="faq-item"><summary>What is the Brunner test?</summary><div class="answer"><p>The Brunner test requires proving three things: (1) you cannot maintain a minimal standard of living while repaying, (2) your hardship is likely to persist, and (3) you have made good-faith repayment efforts. Both Kansas City courts use this test. <a href="https://brunnertest.org">Learn more at brunnertest.org</a>.</p></div></details>
+<details class="faq-item"><summary>What is the 2022 DOJ guidance on student loan discharge?</summary><div class="answer"><p>The DOJ now uses a standardized form to evaluate cases and will recommend discharge when evidence supports it, rather than automatically opposing every case. This has increased success rates and reduced litigation costs for federal student loan discharge cases.</p></div></details>
+<details class="faq-item"><summary>What is an adversary proceeding for student loans?</summary><div class="answer"><p>An adversary proceeding is a separate lawsuit filed within your bankruptcy case to determine if your student loans can be discharged. It requires a complaint, has a $350 filing fee, and may involve discovery and trial. Many cases now settle under the DOJ guidance.</p></div></details>
+<details class="faq-item"><summary>Can I get a partial discharge of student loans?</summary><div class="answer"><p>Yes. Courts can discharge part of your debt - for example, eliminating accrued interest while requiring repayment of the principal. Partial discharge has become more common under the 2022 DOJ guidance.</p></div></details>
+<details class="faq-item"><summary>What are alternatives to discharging student loans in bankruptcy?</summary><div class="answer"><p>Alternatives include income-driven repayment plans (SAVE, PAYE, IBR), Public Service Loan Forgiveness, teacher loan forgiveness, total and permanent disability discharge, and borrower defense to repayment. Chapter 13 also places federal loans in forbearance during your plan.</p></div></details>
+</div></section>
+<div class="container">
+<div style="text-align:center;padding:40px 0">
+<h2>Learn More About Student Loans and Bankruptcy</h2>
+<p>Visit our dedicated resources for comprehensive guides to student loan options in bankruptcy.</p>
+<a class="cta" href="https://bankruptcystudentloans.org" style="margin-right:12px">Student Loan Guide</a>
+<a class="cta" href="https://brunnertest.org" style="background:#1f6feb">Brunner Test Explained</a>
+</div>
+<div class="network" style="margin-top:0">
+<h3>Browse Other Cities</h3>
+<div class="network-links">
+<a href="https://houstonbankruptcy.org">Houston</a>
+<a href="https://miamibankruptcy.org">Miami</a>
+<a href="https://phoenixbankruptcy.org">Phoenix</a>
+<a href="https://minneapolisbankruptcy.org">Minneapolis</a>
+<a href="https://stlouisbankruptcy.org">St. Louis</a>
+<a href="https://newyorkbankruptcy.org">New York</a>
+<a href="https://newarkbankruptcy.org">Newark</a>
+<a href="https://sanantoniobankruptcy.org">San Antonio</a>
+<a href="https://openbankruptcyproject.org/cities.html">View All Cities →</a>
+</div>
+</div>
+<div class="network">
+<h3>Open Bankruptcy Project Network</h3>
+<div class="network-links">
+<a href="https://openbankruptcyproject.org">OBP Home</a>
+<a href="https://1328f.com">1328(f) Screener</a>
+<a href="https://chapter7vs13.org">Ch. 7 vs 13</a>
+<a href="https://automaticstay.org">Automatic Stay</a>
+<a href="https://341meeting.org">341 Meeting</a>
+<a href="https://bankruptcymeanstest.org">Means Test</a>
+<a href="https://howmuchdoesbankruptcycost.com">Cost Guide</a>
+<a href="https://bankruptcydismissed.com">Dismissed?</a>
+<a href="https://filebankruptcyagain.com">File Again?</a>
+<a href="https://howtofilebankruptcy.org">How to File</a>
+<a href="https://bankruptcykansascity.org">KC Statistics</a>
+</div>
+</div>
+</div>
+<!-- Open Bankruptcy Project Network Showcase -->
+<div id="obp-network-showcase" style="background:#0d1117;border-top:1px solid #30363d;padding:40px 0 32px;">
+<div style="max-width:1100px;margin:0 auto;padding:0 20px;">
+<details style="background:#161b22;border:1px solid #30363d;border-radius:10px;overflow:hidden;">
+<summary style="padding:20px 24px;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;color:#f0f6fc;font-weight:700;font-size:1.15rem;">
+<span>The Open Bankruptcy Project Network - 170+ Free Resources</span>
+<span class="obp-toggle" style="color:#58a6ff;font-size:1.4rem;font-weight:700;transition:transform 0.2s;">+</span>
+</summary>
+<div style="padding:4px 24px 24px;">
+<p style="color:#8b949e;font-size:0.88rem;margin-bottom:16px;">Every site below is free, ad-free, and built on real federal court data. No lead generation. No sponsored content. Just information.</p>
+<div style="display:flex;flex-wrap:wrap;gap:6px 8px;">
+<a href="https://openbankruptcyproject.org" rel="noopener" style="background:#238636;color:#fff;padding:5px 12px;border-radius:14px;font-size:0.78rem;font-weight:600;border:1px solid #238636;text-decoration:none;" target="_blank">openbankruptcyproject.org</a>
+<a href="https://1328f.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">1328f.com</a>
+<a href="https://1328f.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">1328f.org</a>
+<a href="https://109g.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">109g.org</a>
+<a href="https://341meeting.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">341meeting.org</a>
+<a href="https://523a.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">523a.org</a>
+<a href="https://524injunction.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">524injunction.com</a>
+<a href="https://727a8.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">727a8.org</a>
+<a href="https://automaticstay.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">automaticstay.org</a>
+<a href="https://chapter7vs13.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">chapter7vs13.org</a>
+<a href="https://meanstest.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">meanstest.org</a>
+<a href="https://section1191.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">section1191.org</a>
+<a href="https://section1192.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">section1192.org</a>
+<a href="https://section329.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">section329.org</a>
+<a href="https://lienstripping.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">lienstripping.org</a>
+<a href="https://relieffromstay.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">relieffromstay.org</a>
+<a href="https://dischargebar.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">dischargebar.org</a>
+<a href="https://bankruptcytrustee.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">bankruptcytrustee.org</a>
+<a href="https://prosebankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">prosebankruptcy.org</a>
+<a href="https://bankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">bankruptcymill.com</a>
+<a href="https://bankruptcymill.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">bankruptcymill.org</a>
+<a href="https://kansascitybankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">kansascitybankruptcymill.com</a>
+<a href="https://chicagobankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">chicagobankruptcymill.com</a>
+<a href="https://houstonbankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">houstonbankruptcymill.com</a>
+<a href="https://atlantabankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">atlantabankruptcymill.com</a>
+<a href="https://detroitbankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">detroitbankruptcymill.com</a>
+<a href="https://miamibankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">miamibankruptcymill.com</a>
+<a href="https://denverbankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">denverbankruptcymill.com</a>
+<a href="https://losangelesbankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">losangelesbankruptcymill.com</a>
+<a href="https://stlouisbankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">stlouisbankruptcymill.com</a>
+<a href="https://birminghambankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">birminghambankruptcymill.com</a>
+<a href="https://filebankruptcywithoutlawyer.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">filebankruptcywithoutlawyer.com</a>
+<a href="https://keepmycarinbankruptcy.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">keepmycarinbankruptcy.com</a>
+<a href="https://keepmyhouseinbankruptcy.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">keepmyhouseinbankruptcy.com</a>
+<a href="https://howmuchdoesbankruptcycost.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">howmuchdoesbankruptcycost.com</a>
+<a href="https://rebuildcreditafterbankruptcy.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">rebuildcreditafterbankruptcy.com</a>
+<a href="https://buyahouseafterbankruptcy.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">buyahouseafterbankruptcy.com</a>
+<a href="https://buyacarafterbankruptcy.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">buyacarafterbankruptcy.com</a>
+<a href="https://bankruptcydenied.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">bankruptcydenied.com</a>
+<a href="https://bankruptcyexemptionsbystate.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">bankruptcyexemptionsbystate.com</a>
+<a href="https://firedbymybankruptcylawyer.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">firedbymybankruptcylawyer.com</a>
+<a href="https://mybankruptcylawyerwontcallback.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">mybankruptcylawyerwontcallback.com</a>
+<a href="https://kansascitybankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">kansascitybankruptcy.org</a>
+<a href="https://bankruptcykansascity.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">bankruptcykansascity.org</a>
+<a href="https://missouribankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">missouribankruptcy.org</a>
+<a href="https://illinoisbankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">illinoisbankruptcy.org</a>
+<a href="https://ohiobankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">ohiobankruptcy.org</a>
+<a href="https://georgiabankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">georgiabankruptcy.org</a>
+<a href="https://coloradobankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">coloradobankruptcy.org</a>
+<a href="https://minnesotabankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">minnesotabankruptcy.org</a>
+<a href="https://newyorkbankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">newyorkbankruptcy.org</a>
+<a href="https://delawarebankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">delawarebankruptcy.org</a>
+<a href="https://marylandbankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">marylandbankruptcy.org</a>
+</div>
+<p style="color:#8b949e;font-size:0.82rem;margin-top:16px;margin-bottom:0;text-align:center;font-style:italic;">170+ domains. 2,500+ pages. $0 advertising. No lead generation. Just information.</p>
+</div>
+</details>
+</div>
+</div>
+<script>document.querySelector('#obp-network-showcase details').addEventListener('toggle',function(){this.querySelector('.obp-toggle').textContent=this.open?'−':'+';})</script>
+<!-- End Network Showcase -->
+<!-- Related Kansas City Bankruptcy Resources -->
+<div style="max-width:900px;margin:2rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">Related Kansas City Bankruptcy Resources</p>
+<ul style="list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:0.5rem">
+<li><a href="/" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Kansas City Bankruptcy Guide</a></li>
+<li><a href="/chapter-7.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Chapter 7 in Kansas City</a></li>
+<li><a href="/chapter-13.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Chapter 13 in Kansas City</a></li>
+<li><a href="/means-test.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Kansas City Means Test</a></li>
+<li><a href="/exemptions.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Missouri &amp; Kansas Exemptions</a></li>
+<li><a href="/cost.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Bankruptcy Cost in KC</a></li>
+</ul>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<div class="container">
+<p>An <a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a> resource</p>
+<p>Data sourced from the <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database (2008--2024).</p>
+<p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
+<p>© 2026 Open Bankruptcy Project. <a href="https://github.com/openbankruptcyproject">GitHub</a></p>
+</div></footer>
+<!-- BTN:FOOTER:END -->
+<script defer="" src="/btn-engage.js"></script>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>

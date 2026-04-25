@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Chapter 11 Bankruptcy in Kansas City - Small Business Reorganization Guide</title>
+<meta content="Complete guide to Chapter 11 bankruptcy for Kansas City small businesses. Covers Subchapter V, debtor in possession, plan confirmation, 1191(a) vs." name="description"/>
+<link href="favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="https://kansascitybankruptcy.org/chapter-11.html" rel="canonical"/>
+<!-- BTN:GA4:START -->
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-053Z64N82F');gtag('config','G-FTWLM223G7');</script>
+<!-- BTN:GA4:END -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {"@type":"Question","name":"What is Chapter 11 bankruptcy?","acceptedAnswer":{"@type":"Answer","text":"Chapter 11 is a type of bankruptcy designed for business reorganization. Unlike Chapter 7, which liquidates a business, Chapter 11 allows the business to continue operating while it restructures its debts under court supervision. The business owner typically remains in control as a debtor in possession and proposes a plan to repay creditors over time. Chapter 11 is available to individuals, corporations, LLCs, and partnerships."}},
+    {"@type":"Question","name":"What is Subchapter V and who qualifies?","acceptedAnswer":{"@type":"Answer","text":"Subchapter V is a streamlined version of Chapter 11 created by the Small Business Reorganization Act of 2019. It is designed for businesses with aggregate debts of no more than $7.5 million, where at least 50 percent of those debts arise from business activities. Subchapter V eliminates the requirement for a creditors committee, removes the disclosure statement requirement, and allows the debtor to retain equity in the business even if creditors object to the plan. It is significantly faster and less expensive than traditional Chapter 11."}},
+    {"@type":"Question","name":"How much does Chapter 11 cost in Kansas City?","acceptedAnswer":{"@type":"Answer","text":"The Chapter 11 filing fee is $1,738. Attorney fees for a Subchapter V case in Kansas City typically range from $10,000 to $30,000 or more depending on case complexity. Traditional Chapter 11 cases are more expensive, often $25,000 to $100,000 or more in legal fees. Quarterly U.S. Trustee fees also apply, based on the amount of disbursements made during the case."}},
+    {"@type":"Question","name":"What is the difference between 1191(a) and 1191(b) confirmation?","acceptedAnswer":{"@type":"Answer","text":"In Subchapter V, a plan can be confirmed in two ways. Under section 1191(a), all impaired classes of creditors vote to accept the plan - this is consensual confirmation. Under section 1191(b), the court can confirm the plan even if one or more classes reject it, provided the plan does not discriminate unfairly, is fair and equitable, and the debtor's projected disposable income over the plan period (3 to 5 years) will be applied to plan payments. Section 1191(b) is the cramdown provision and gives the debtor significant leverage."}},
+    {"@type":"Question","name":"How long does a Chapter 11 case take?","acceptedAnswer":{"@type":"Answer","text":"Subchapter V cases are designed to move quickly. The debtor must file a plan within 90 days of filing, though extensions are commonly granted. Plan confirmation can occur within 6 to 12 months in straightforward cases. Plan payments then run for 3 to 5 years. Traditional Chapter 11 cases take longer - often 1 to 3 years to reach confirmation. In the Western District of Missouri, Subchapter V cases have generally moved at a reasonable pace given the smaller dockets."}},
+    {"@type":"Question","name":"Can I keep my business in Chapter 11?","acceptedAnswer":{"@type":"Answer","text":"Yes. That is the primary purpose of Chapter 11. The business continues to operate throughout the case. As a debtor in possession, you maintain day-to-day control of business operations, although certain actions (such as selling assets outside the ordinary course of business or taking on new debt) require court approval. In Subchapter V, you also retain your ownership interest in the business, even if creditors do not all agree to the plan."}}
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Chapter 11 Bankruptcy in Kansas City - Small Business Reorganization Guide",
+      "description": "Complete guide to Chapter 11 bankruptcy for Kansas City small businesses. Covers Subchapter V, debtor in possession, plan confirmation, costs, timeline, and W.D. Mo. specifics.",
+      "author": {"@type": "Organization", "name": "Open Bankruptcy Project"},
+      "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org"},
+      "datePublished": "2026-04-05",
+      "dateModified": "2026-04-05",
+      "mainEntityOfPage": "https://kansascitybankruptcy.org/chapter-11.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://kansascitybankruptcy.org"},
+        {"@type": "ListItem", "position": 2, "name": "Chapter 11", "item": "https://kansascitybankruptcy.org/chapter-11.html"}
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "name": "Chapter 11 Bankruptcy in Kansas City",
+      "url": "https://kansascitybankruptcy.org/chapter-11.html",
+      "speakable": {"@type": "SpeakableSpecification", "cssSelector": [".quick-answer", "h1", ".summary", "p:first-of-type"]}
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "HowTo",
+      "name": "Chapter 11 Bankruptcy in Kansas City",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-053Z64N82F');gtag('config','G-FTWLM223G7');\n\n{\n  \""
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "No disclosure statement. Traditional Chapter 11 requires a detailed disclosure statement that must be approved by the court before creditors can vote on the plan. Subchapter V skips this step entirely"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Debtor retains equity. Under Subchapter V, the debtor can keep the business even if not all creditors agree to the plan. In traditional Chapter 11, the \"absolute priority rule\" could force the debtor "
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Faster timeline. The debtor must file a plan within 90 days (extensions are common but the pace is far faster than traditional Chapter 11)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Subchapter V trustee. A standing trustee is appointed to facilitate plan negotiations, but the trustee does not take control of the business."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "text": "Engaged in commercial or business activities. The debtor must be a person or entity engaged in business (this includes sole proprietors, LLCs, corporations, and partnerships)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "text": "Aggregate debts of no more than $7.5 million. This limit, originally $2,725,625, was raised by the CARES Act and subsequently extended by Congress. Both secured and unsecured debts count toward the ca"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "At least 50% of debts from business activities. This requirement applies only to individuals and ensures that Subchapter V is used for genuinely business-related reorganizations rather than as an alte"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "Not a single-asset real estate debtor. Entities whose primary business is owning a single property (such as a rental building) do not qualify."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 10,
+          "text": "You maintain day-to-day control of business operations"
+        }
+      ]
+    }
+  ]
+}
+</script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;line-height:1.6}
+a{color:#58a6ff;text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+nav{background:#161b22;border-bottom:1px solid #30363d;padding:12px 0;position:sticky;top:0;z-index:100}
+nav .container{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+nav .brand{color:#f0f6fc;font-weight:700;font-size:1.1rem}
+nav .links{display:flex;gap:16px;flex-wrap:wrap}
+nav .links a{color:#8b949e;font-size:0.9rem}nav .links a:hover{color:#58a6ff}
+.hero{padding:60px 0 40px;text-align:center;border-bottom:1px solid #30363d}
+.hero h1{color:#f0f6fc;font-size:2.4rem;margin-bottom:12px}
+.hero .subtitle{color:#8b949e;font-size:1.15rem;max-width:700px;margin:0 auto 24px}
+section{padding:40px 0;border-bottom:1px solid #21262d}
+h2{color:#f0f6fc;font-size:1.8rem;margin-bottom:16px}
+h3{color:#f0f6fc;font-size:1.3rem;margin-bottom:12px}
+p{margin-bottom:16px}
+.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin-bottom:20px}
+.compare-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:20px 0}
+.compare-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:20px}
+.compare-card h3{font-size:1.1rem;margin-bottom:10px}
+.faq-item{background:#161b22;border:1px solid #30363d;border-radius:8px;margin-bottom:12px;overflow:hidden}
+.faq-item summary{padding:16px 20px;cursor:pointer;color:#f0f6fc;font-weight:600;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.faq-item summary::after{content:"+";color:#58a6ff;font-size:1.3rem;font-weight:700}
+.faq-item[open] summary::after{content:"-"}
+.faq-item .answer{padding:0 20px 16px;color:#c9d1d9}
+.network{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin:32px 0}
+.network h3{margin-bottom:12px}
+.network-links{display:flex;flex-wrap:wrap;gap:8px}
+.network-links a{background:#21262d;padding:6px 14px;border-radius:16px;font-size:0.85rem;border:1px solid #30363d}
+.network-links a:hover{border-color:#58a6ff;background:#161b22}
+footer{background:#161b22;border-top:1px solid #30363d;padding:32px 0;text-align:center;color:#8b949e;font-size:0.85rem}
+footer a{color:#58a6ff}footer p{margin-bottom:8px}
+.cta{display:inline-block;background:#238636;color:#fff;padding:12px 28px;border-radius:6px;font-weight:600;margin-top:12px;font-size:1rem}
+.cta:hover{background:#2ea043;text-decoration:none}
+ul,ol{margin:12px 0 12px 24px}li{margin-bottom:6px}
+table{width:100%;border-collapse:collapse;margin:16px 0}
+th,td{padding:10px 14px;text-align:left;border-bottom:1px solid #30363d}
+th{color:#f0f6fc;background:#161b22;font-weight:600}
+td{color:#c9d1d9}
+.stat-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;text-align:center}
+.stat-card .number{color:#58a6ff;font-size:2.2rem;font-weight:700}
+.stat-card .label{color:#8b949e;font-size:0.9rem;margin-top:4px}
+.stats-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;padding:32px 0}
+.highlight{background:#f8514920;border:1px solid #f85149;border-radius:8px;padding:16px 20px;margin:16px 0;color:#f5c2c0}
+.highlight strong{color:#f85149}
+@media(max-width:768px){.hero h1{font-size:1.7rem}.compare-grid{grid-template-columns:1fr}.stats-row{grid-template-columns:1fr 1fr}}
+@media(max-width:480px){.stats-row{grid-template-columns:1fr}}
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+<link href="https://kansascitybankruptcy.org/chapter-11.html" hreflang="en" rel="alternate"/>
+<link href="https://kansascitybankruptcy.org/chapter-11-es.html" hreflang="es" rel="alternate"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Kansascity Bankruptcy Information",
+  "description": "Free bankruptcy information and resources for Kansascity residents.",
+  "url": "https://kansascitybankruptcy.org/",
+  "areaServed": {
+    "@type": "City",
+    "name": "Kansascity"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "Open Bankruptcy Project",
+    "url": "https://openbankruptcyproject.org"
+  },
+  "serviceType": "Bankruptcy Information",
+  "isAccessibleForFree": true
+}
+</script>
+<meta content="/og-image.svg" property="og:image"/>
+<meta content="/og-image.svg" name="twitter:image"/>
+</head>
+<body>
+<nav><div class="container"><a class="brand" href="/">Kansas City Bankruptcy Guide</a><div class="links"><a href="/">Home</a><a href="chapter-7.html">Chapter 7</a><a href="chapter-13.html">Chapter 13</a><a href="chapter-11.html">Chapter 11</a><a href="cost.html">Cost</a><a href="faq.html">FAQ</a><a href="glossary.html">Glossary</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://kansascitybankruptcy.org">Home</a><span class="separator">›</span><span>Chapter 11</span></nav>
+<div class="hero"><div class="container">
+<h1>Chapter 11 Bankruptcy in Kansas City</h1>
+<p class="subtitle">A guide for small business owners considering reorganization. Chapter 11 lets you restructure debts and keep your business running - and Subchapter V has made it faster and more affordable than ever.</p>
+</div></div>
+<div class="container">
+<div class="stats-row">
+<div class="stat-card"><div class="number">$1,738</div><div class="label">Chapter 11 Filing Fee</div></div>
+<div class="stat-card"><div class="number">$7.5M</div><div class="label">Subchapter V Debt Limit</div></div>
+<div class="stat-card"><div class="number">90 Days</div><div class="label">Plan Filing Deadline (Sub V)</div></div>
+<div class="stat-card"><div class="number">3-5 Years</div><div class="label">Typical Plan Duration</div></div>
+</div>
+</div>
+<section><div class="container">
+<h2>What Is Chapter 11?</h2>
+<div class="card">
+<p>Chapter 11 is the reorganization chapter of the Bankruptcy Code. Unlike <a href="chapter-7.html">Chapter 7</a>, which liquidates a business and distributes assets to creditors, Chapter 11 allows the business to continue operating while it develops a plan to restructure its debts under court protection.</p>
+<p>The business owner typically remains in control as a "<a href="https://section1191.org/" title="debtor in possession">debtor in possession</a>" - running day-to-day operations, maintaining employees, and serving customers. The court provides breathing room through the <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy">automatic stay</a>, which stops creditor lawsuits, foreclosures, and collection actions while the reorganization plan is developed.</p>
+<p>Chapter 11 is available to individuals, sole proprietors, partnerships, LLCs, and corporations. It has no debt limit, making it the primary option for businesses too large for <a href="chapter-13.html">Chapter 13</a>. However, the traditional Chapter 11 process was historically slow and expensive - which is why Congress created Subchapter V in 2019.</p>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Subchapter V: The Small Business Fast Track</h2>
+<div class="card">
+<p>The Small Business Reorganization Act of 2019 (SBRA) added Subchapter V to Chapter 11, creating a streamlined path specifically for small businesses. It took effect in February 2020 and has since become the most common form of Chapter 11 filing nationwide.</p>
+<p>Subchapter V eliminates many of the procedural hurdles that made traditional Chapter 11 prohibitively expensive for small businesses:</p>
+<ul>
+<li><strong>No creditors' committee.</strong> Traditional Chapter 11 cases often involve an official committee of unsecured creditors (with its own attorneys, paid by the debtor's estate). Subchapter V eliminates this requirement, saving tens of thousands of dollars.</li>
+<li><strong>No disclosure statement.</strong> Traditional Chapter 11 requires a detailed disclosure statement that must be approved by the court before creditors can vote on the plan. Subchapter V skips this step entirely.</li>
+<li><strong>Debtor retains equity.</strong> Under Subchapter V, the debtor can keep the business even if not all creditors agree to the plan. In traditional Chapter 11, the "absolute priority rule" could force the debtor to give up ownership.</li>
+<li><strong>Faster timeline.</strong> The debtor must file a plan within 90 days (extensions are common but the pace is far faster than traditional Chapter 11).</li>
+<li><strong>Subchapter V trustee.</strong> A standing trustee is appointed to facilitate plan negotiations, but the trustee does not take control of the business.</li>
+</ul>
+</div>
+<div class="card">
+<h3>Who Qualifies for Subchapter V?</h3>
+<p>To elect Subchapter V, a debtor must meet all of the following requirements:</p>
+<ol>
+<li><strong>Engaged in commercial or business activities.</strong> The debtor must be a person or entity engaged in business (this includes sole proprietors, LLCs, corporations, and partnerships).</li>
+<li><strong>Aggregate debts of no more than $7.5 million.</strong> This limit, originally $2,725,625, was raised by the CARES Act and subsequently extended by Congress. Both secured and unsecured debts count toward the cap.</li>
+<li><strong>At least 50% of debts from business activities.</strong> This requirement applies only to individuals and ensures that Subchapter V is used for genuinely business-related reorganizations rather than as an alternative to <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> for consumer debts.</li>
+<li><strong>Not a single-asset real estate debtor.</strong> Entities whose primary business is owning a single property (such as a rental building) do not qualify.</li>
+</ol>
+<p>A small business in Kansas City that meets these requirements can elect Subchapter V by checking a box on the petition. The election must be made at the time of filing.</p>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Debtor in Possession</h2>
+<div class="card">
+<p>In Chapter 11, the business owner continues to operate the business as a "<a href="https://section1191.org/" title="debtor in possession">debtor in possession</a>" (DIP) under 11 U.S.C. section 1107. This means:</p>
+<ul>
+<li>You maintain day-to-day control of business operations</li>
+<li>You continue to manage employees, serve customers, and collect receivables</li>
+<li>You can use cash and other property of the estate in the ordinary course of business</li>
+<li>You have the duties of a trustee, including maintaining accurate financial records and filing regular reports (Monthly Operating Reports, or MORs) with the court and the U.S. Trustee</li>
+</ul>
+<p>Certain actions require advance court approval, including selling assets outside the ordinary course of business, taking on new financing (DIP financing), and entering into or terminating significant contracts or leases.</p>
+<div class="highlight">
+<strong>Important:</strong> As debtor in possession, you have fiduciary duties to all creditors and the estate. Mixing personal and business funds, paying insiders preferentially, or making unauthorized expenditures can result in the appointment of a trustee to replace you or conversion of the case to <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> liquidation.
+</div>
+</div>
+</div></section>
+<section><div class="container">
+<h2>The Chapter 11 Plan</h2>
+<div class="card">
+<p>The plan is the core of a Chapter 11 case. It specifies how each class of creditors will be treated - how much they will receive, over what period, and from what source of funds. The plan typically provides for:</p>
+<ul>
+<li><strong>Administrative claims</strong> (attorneys' fees, trustee fees, professional fees) - paid in full at confirmation</li>
+<li><strong>Priority claims</strong> (certain taxes, employee wages) - paid in full, though they can be paid over time</li>
+<li><strong>Secured claims</strong> (mortgages, equipment loans, vehicle loans) - often restructured with modified terms</li>
+<li><strong>Unsecured claims</strong> (credit cards, trade debt, personal loans) - may receive partial payment, full payment, or nothing depending on available resources</li>
+</ul>
+<p>In Subchapter V, the debtor has the exclusive right to file a plan - creditors cannot file competing plans. The plan must be filed within 90 days of the order for relief, though the court routinely grants extensions for cause.</p>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Plan Confirmation: 1191(a) vs. 1191(b)</h2>
+<p>This is where Subchapter V provides its most powerful advantage. There are two paths to <a href="https://chapter13plan.org/" title="confirmation">plan confirmation</a>:</p>
+<div class="compare-grid">
+<div class="compare-card">
+<h3><a href="https://www.law.cornell.edu/uscode/text/11/1191#a_0" rel="noopener" target="_blank">Section 1191(a)</a> - Consensual</h3>
+<p>Under 1191(a), the plan is confirmed because all impaired classes of creditors have voted to accept it. A class accepts if creditors holding at least two-thirds in amount and more than one-half in number vote yes.</p>
+<ul>
+<li>All impaired classes vote to accept</li>
+<li>Plan must be proposed in good faith</li>
+<li>Plan must be feasible (the debtor can actually make the payments)</li>
+<li><a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a> is granted at confirmation</li>
+<li>No requirement to commit all disposable income</li>
+<li>Faster path to <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a></li>
+</ul>
+</div>
+<div class="compare-card">
+<h3><a href="https://www.law.cornell.edu/uscode/text/11/1191#b_0" rel="noopener" target="_blank">Section 1191(b)</a> - Nonconsensual (Cramdown)</h3>
+<p>Under 1191(b), the court can confirm the plan even if one or more impaired classes reject it. This is the <a href="https://section1192.org/" title="cramdown">cramdown</a> provision, and it is unique to Subchapter V.</p>
+<ul>
+<li>At least one impaired class must accept (or no impaired classes exist)</li>
+<li>Plan must not discriminate unfairly among classes</li>
+<li>Plan must be "fair and equitable" to dissenting classes</li>
+<li>Debtor must commit all projected disposable income for 3 to 5 years</li>
+<li>Discharge is delayed until plan payments are completed</li>
+<li>Debtor still retains equity in the business</li>
+</ul>
+</div>
+</div>
+<div class="card" style="margin-top:20px">
+<h3>Why This Matters</h3>
+<p>The difference between 1191(a) and 1191(b) has major practical consequences:</p>
+<p><strong>Timing of discharge.</strong> Under 1191(a), the debtor receives a discharge immediately upon confirmation. Under 1191(b), the debtor does not receive a discharge until all plan payments are completed - which could be 3 to 5 years later. During this period, the debtor remains under court supervision and must make all plan payments as promised.</p>
+<p><strong>Disposable income commitment.</strong> Under 1191(a), there is no requirement to devote all disposable income to the plan. The debtor and creditors negotiate the deal. Under 1191(b), the debtor must commit all projected disposable income for a period of 3 to 5 years, similar to the <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> requirement.</p>
+<p><strong>Retention of equity.</strong> Under both paths, the debtor retains ownership of the business. This is a major departure from traditional Chapter 11, where the absolute priority rule could force the owner to surrender equity to creditors. In Subchapter V, the owner keeps the business regardless of the confirmation path.</p>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Discharge Timing</h2>
+<div class="card">
+<p>When and how you receive your discharge depends on the confirmation path and the type of Chapter 11 case:</p>
+<table>
+<tr><th>Case Type</th><th>Discharge Timing</th><th>Key Condition</th></tr>
+<tr><td>Subchapter V - 1191(a)</td><td>At confirmation</td><td>All impaired classes accepted the plan</td></tr>
+<tr><td>Subchapter V - 1191(b)</td><td>After all plan payments completed</td><td>Must complete 3-5 years of payments</td></tr>
+<tr><td>Traditional Chapter 11 (individual)</td><td>After all plan payments completed</td><td>Per 11 U.S.C. section 1141(d)(5)</td></tr>
+<tr><td>Traditional Chapter 11 (entity)</td><td>At confirmation</td><td>Entity discharges even if plan not yet completed</td></tr>
+</table>
+<p style="margin-top:12px;color:#8b949e;font-size:0.9rem">Note: Certain debts remain <a href="https://nondischargeable.org" rel="noopener" target="_blank" title="Nondischargeable Debts - Open Bankruptcy Project">nondischargeable</a> regardless of the chapter. See <a href="https://523a.org" title="Non-Dischargeable Debts">11 U.S.C. section 523(a)</a>.</p>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Chapter 11 vs. Chapter 7 for Businesses</h2>
+<div class="compare-grid">
+<div class="compare-card">
+<h3>Chapter 11 - Reorganize</h3>
+<ul>
+<li>Business continues operating</li>
+<li>Owner stays in control (debtor in possession)</li>
+<li>Debts restructured over time</li>
+<li>Employees keep their jobs</li>
+<li>Customer relationships preserved</li>
+<li>Owner retains equity (Subchapter V)</li>
+<li>Filing fee: $1,738</li>
+<li>Attorney fees: $10,000-$30,000+ (Sub V)</li>
+</ul>
+</div>
+<div class="compare-card">
+<h3>Chapter 7 - Liquidate</h3>
+<ul>
+<li>Business ceases operations</li>
+<li>Trustee takes control of all assets</li>
+<li>Assets sold, proceeds to creditors</li>
+<li>Employees terminated</li>
+<li>No ongoing customer service</li>
+<li>No discharge for corporations/LLCs</li>
+<li>Filing fee: $338</li>
+<li>Attorney fees: $1,000-$3,000</li>
+</ul>
+</div>
+</div>
+<p style="margin-top:16px">For a viable business with a path to profitability, Chapter 11 almost always provides a better outcome than <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>. The business preserves its going-concern value - customer lists, employee expertise, contracts, goodwill, and brand recognition - which would be lost in liquidation. However, if the business has no realistic path to profitability, Chapter 7 may be the more honest and less expensive option.</p>
+</div></section>
+<section><div class="container">
+<h2>Cost of Chapter 11 in Kansas City</h2>
+<div class="card">
+<p>Chapter 11 is significantly more expensive than Chapter 7 or Chapter 13, but Subchapter V has narrowed the gap considerably:</p>
+<table>
+<tr><th>Expense</th><th>Subchapter V</th><th>Traditional Chapter 11</th></tr>
+<tr><td>Filing fee</td><td>$1,738</td><td>$1,738</td></tr>
+<tr><td>Attorney fees</td><td>$10,000 - $30,000+</td><td>$25,000 - $100,000+</td></tr>
+<tr><td>Quarterly U.S. Trustee fees</td><td>Based on disbursements</td><td>Based on disbursements</td></tr>
+<tr><td>Creditors' committee counsel</td><td>Not applicable</td><td>$10,000 - $50,000+</td></tr>
+<tr><td>Disclosure statement costs</td><td>Not applicable</td><td>$5,000 - $15,000+</td></tr>
+<tr><td>Sub V trustee fees</td><td>Based on disbursements</td><td>Not applicable</td></tr>
+</table>
+<p style="margin-top:12px">Quarterly U.S. Trustee fees are calculated on a sliding scale based on the total disbursements during each quarter. For a small business disbursing $15,000 to $75,000 per quarter, the fee is $650 per quarter. These fees continue until the case is closed or converted.</p>
+<p>Many Chapter 11 attorneys in Kansas City require a retainer before filing, with the balance paid as an administrative expense of the estate (subject to court approval). All professional fees in Chapter 11 must be approved by the court, which reviews billing entries for reasonableness.</p>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Timeline: What to Expect</h2>
+<div class="card">
+<h3>Subchapter V Timeline</h3>
+<ol>
+<li style="margin-bottom:12px"><strong>Pre-filing preparation (2-6 weeks).</strong> Gather financial records, prepare schedules and statements, develop preliminary plan strategy. Identify which debts to restructure and how.</li>
+<li style="margin-bottom:12px"><strong>Day 1: Filing.</strong> Petition filed with the court. The <a href="https://automaticstay.org" title="Automatic Stay">automatic stay</a> takes effect immediately, stopping all creditor collection activity. You continue operating as debtor in possession.</li>
+<li style="margin-bottom:12px"><strong>Days 1-14: Subchapter V trustee appointed.</strong> The U.S. Trustee appoints a standing Subchapter V trustee to the case. The trustee will facilitate plan negotiations between you and your creditors.</li>
+<li style="margin-bottom:12px"><strong>Day 30-45: 341 <a href="https://341meeting.org/" title="341 meeting">meeting of creditors</a>.</strong> Brief hearing where the trustee and any creditors may ask questions about your business and finances. Similar to a Chapter 13 <a href="https://341meeting.org" title="341 Meeting of Creditors">341 meeting</a> but often with more business-specific questions.</li>
+<li style="margin-bottom:12px"><strong>Day 90: Plan filing deadline.</strong> You must file your proposed plan within 90 days. Extensions are commonly granted but the court expects the debtor to move promptly. No disclosure statement is required in Subchapter V.</li>
+<li style="margin-bottom:12px"><strong>Months 3-6: Creditor negotiations and voting.</strong> Creditors review the plan, the trustee facilitates negotiations, and impaired classes vote on the plan. The goal is consensual confirmation under 1191(a).</li>
+<li style="margin-bottom:12px"><strong>Months 6-12: <a href="https://chapter13plan.org/" title="confirmation">Confirmation hearing</a>.</strong> The court holds a hearing and, if the plan meets all requirements, enters a confirmation order. Under 1191(a), discharge is granted at this point.</li>
+<li style="margin-bottom:12px"><strong>Years 1-5: Plan payments.</strong> You make payments to creditors through the Subchapter V trustee according to the confirmed plan. You must also file regular financial reports.</li>
+<li style="margin-bottom:12px"><strong>Plan completion.</strong> After all plan payments are made, the case is closed. If confirmed under 1191(b), the discharge is entered at this point.</li>
+</ol>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Filing in the Western District of Missouri</h2>
+<div class="card">
+<p>Kansas City businesses on the Missouri side file Chapter 11 in the U.S. Bankruptcy Court for the Western District of Missouri, located at 400 East 9th Street, Kansas City, MO 64106. Businesses on the Kansas side file in the U.S. Bankruptcy Court for the District of Kansas at 500 State Avenue, Kansas City, KS 66101.</p>
+<p>Key local considerations:</p>
+<ul>
+<li><strong>Monthly Operating Reports (MORs).</strong> The W.D. Mo. requires monthly financial reports filed with the court and the U.S. Trustee throughout the pendency of the case. These reports include income, expenses, cash balances, and a comparison to projections. Failure to file MORs can result in case <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> or conversion.</li>
+<li><strong>U.S. Trustee oversight.</strong> The Office of the U.S. Trustee for Region 13 (covering W.D. Mo.) actively monitors Chapter 11 cases. The U.S. Trustee reviews fee applications, monitors MOR filings, and may file motions to dismiss or convert cases that are not progressing.</li>
+<li><strong>Local rules.</strong> Both W.D. Mo. and D. Kan. have local bankruptcy rules that supplement the Federal Rules of Bankruptcy Procedure. These cover filing requirements, hearing procedures, and plan confirmation standards. Your attorney should be familiar with these local practices.</li>
+</ul>
+</div>
+</div></section>
+<section><div class="container">
+<h2>When Chapter 11 Is the Right Choice</h2>
+<div class="card">
+<p>Chapter 11 (particularly Subchapter V) is typically the best option when:</p>
+<ul>
+<li>The business is viable but is crushed by debt it cannot service on current terms</li>
+<li>The business has valuable assets, contracts, employees, or customer relationships worth preserving</li>
+<li>Debts exceed <a href="chapter-13.html">Chapter 13</a> limits (making Chapter 13 unavailable)</li>
+<li>The business entity is a corporation, LLC, or partnership (which cannot file Chapter 13)</li>
+<li>You need to reject burdensome leases or contracts</li>
+<li>Creditors are unwilling to negotiate outside of court</li>
+<li>You need the protection of the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> to stop lawsuits and collection activity while reorganizing</li>
+</ul>
+<p>Chapter 11 is generally not the right choice when the business has no realistic path to profitability, when total debts are small enough for Chapter 13 (if the owner is a sole proprietor), or when the cost of the Chapter 11 case would consume resources better used for creditors or operations.</p>
+</div>
+</div></section>
+<section><div class="container">
+<h2>Frequently Asked Questions</h2>
+<details class="faq-item"><summary>What is Chapter 11 bankruptcy?</summary><div class="answer"><p>Chapter 11 is a type of bankruptcy designed for business reorganization. Unlike Chapter 7, which liquidates a business, Chapter 11 allows the business to continue operating while it restructures debts under court supervision. The business owner typically remains in control as a debtor in possession. <a href="small-business.html">Compare all business options</a>.</p></div></details>
+<details class="faq-item"><summary>What is Subchapter V and who qualifies?</summary><div class="answer"><p>Subchapter V is a streamlined version of Chapter 11 for small businesses with debts under $7.5 million, where at least 50% of debts are from business activities. It eliminates the creditors' committee, removes the disclosure statement requirement, and lets the debtor keep the business even if creditors object. Created by the Small Business Reorganization Act of 2019.</p></div></details>
+<details class="faq-item"><summary>How much does Chapter 11 cost in Kansas City?</summary><div class="answer"><p>The filing fee is $1,738. Attorney fees for Subchapter V cases typically range from $10,000 to $30,000+. Traditional Chapter 11 can cost $25,000 to $100,000+ in legal fees. Quarterly U.S. Trustee fees also apply based on disbursements. <a href="cost.html">General cost information</a>.</p></div></details>
+<details class="faq-item"><summary>What is the difference between 1191(a) and 1191(b)?</summary><div class="answer"><p>Under 1191(a), all impaired creditor classes vote to accept the plan and discharge is granted at confirmation. Under 1191(b), the court confirms the plan over creditor objections (<a href="https://section1192.org/" title="cramdown">cramdown</a>), but the debtor must commit all disposable income for 3-5 years and discharge is delayed until payments are completed. Both paths allow the debtor to retain business ownership.</p></div></details>
+<details class="faq-item"><summary>How long does a Chapter 11 case take?</summary><div class="answer"><p>Subchapter V cases are designed to move quickly. The plan must be filed within 90 days (extensions are common). Confirmation can occur within 6-12 months. Plan payments then run 3-5 years. Traditional Chapter 11 cases often take 1-3 years to reach confirmation.</p></div></details>
+<details class="faq-item"><summary>Can I keep my business in Chapter 11?</summary><div class="answer"><p>Yes. The business continues operating throughout the case. As debtor in possession, you maintain day-to-day control. In Subchapter V, you also retain your ownership interest regardless of whether creditors agree to the plan. Certain major decisions (asset sales, new financing) require court approval.</p></div></details>
+</div></section>
+<div class="container">
+<div style="text-align:center;padding:40px 0">
+<h2>Need More Information?</h2>
+<p>Browse our guides on the other bankruptcy chapters, or check out the small business overview for a comparison of all available options.</p>
+<a class="cta" href="small-business.html" style="margin-right:12px">Small Business Options</a>
+<a class="cta" href="glossary.html" style="background:#1f6feb">Bankruptcy Glossary</a>
+</div>
+<div class="network">
+<h3>Related Guides</h3>
+<div class="network-links">
+<a href="chapter-7.html">Chapter 7</a>
+<a href="chapter-13.html">Chapter 13</a>
+<a href="small-business.html">Small Business</a>
+<a href="exemptions.html">Exemptions</a>
+<a href="cost.html">Cost</a>
+<a href="glossary.html">Glossary</a>
+<a href="faq.html">FAQ</a>
+<a href="what-to-expect.html">What to Expect</a>
+</div>
+</div>
+<div class="network">
+<h3>Open Bankruptcy Project Network</h3>
+<div class="network-links">
+<a href="https://openbankruptcyproject.org">OBP Home</a>
+<a href="https://1328f.com">1328(f) Screener</a>
+<a href="https://chapter7vs13.org">Ch. 7 vs 13</a>
+<a href="https://automaticstay.org">Automatic Stay</a>
+<a href="https://341meeting.org">341 Meeting</a>
+<a href="https://bankruptcymeanstest.org">Means Test</a>
+<a href="https://523a.org">523(a) Debts</a>
+<a href="https://howmuchdoesbankruptcycost.com">Cost Guide</a>
+<a href="https://howtofilebankruptcy.org">How to File</a>
+</div>
+</div>
+</div>
+<!-- Open Bankruptcy Project Network Showcase -->
+<div id="obp-network-showcase" style="background:#0d1117;border-top:1px solid #30363d;padding:40px 0 32px;">
+<div style="max-width:1100px;margin:0 auto;padding:0 20px;">
+<details style="background:#161b22;border:1px solid #30363d;border-radius:10px;overflow:hidden;">
+<summary style="padding:20px 24px;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;color:#f0f6fc;font-weight:700;font-size:1.15rem;">
+<span>The Open Bankruptcy Project Network - 170+ Free Resources</span>
+<span class="obp-toggle" style="color:#58a6ff;font-size:1.4rem;font-weight:700;transition:transform 0.2s;">+</span>
+</summary>
+<div style="padding:4px 24px 24px;">
+<p style="color:#8b949e;font-size:0.88rem;margin-bottom:16px;">Every site below is free, ad-free, and built on real federal court data. No lead generation. No sponsored content. Just information.</p>
+<div style="display:flex;flex-wrap:wrap;gap:6px 8px;">
+<a href="https://openbankruptcyproject.org" rel="noopener" style="background:#238636;color:#fff;padding:5px 12px;border-radius:14px;font-size:0.78rem;font-weight:600;border:1px solid #238636;text-decoration:none;" target="_blank">openbankruptcyproject.org</a>
+<a href="https://1328f.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">1328f.com</a>
+<a href="https://1328f.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">1328f.org</a>
+<a href="https://109g.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">109g.org</a>
+<a href="https://341meeting.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">341meeting.org</a>
+<a href="https://523a.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">523a.org</a>
+<a href="https://524injunction.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">524injunction.com</a>
+<a href="https://727a8.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">727a8.org</a>
+<a href="https://automaticstay.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">automaticstay.org</a>
+<a href="https://chapter7vs13.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">chapter7vs13.org</a>
+<a href="https://meanstest.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">meanstest.org</a>
+<a href="https://section1191.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">section1191.org</a>
+<a href="https://section1192.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">section1192.org</a>
+<a href="https://section329.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">section329.org</a>
+<a href="https://lienstripping.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">lienstripping.org</a>
+<a href="https://relieffromstay.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">relieffromstay.org</a>
+<a href="https://dischargebar.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">dischargebar.org</a>
+<a href="https://bankruptcytrustee.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">bankruptcytrustee.org</a>
+<a href="https://prosebankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">prosebankruptcy.org</a>
+<a href="https://bankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">bankruptcymill.com</a>
+<a href="https://bankruptcymill.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">bankruptcymill.org</a>
+<a href="https://kansascitybankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">kansascitybankruptcymill.com</a>
+<a href="https://chicagobankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">chicagobankruptcymill.com</a>
+<a href="https://houstonbankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">houstonbankruptcymill.com</a>
+<a href="https://atlantabankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">atlantabankruptcymill.com</a>
+<a href="https://detroitbankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">detroitbankruptcymill.com</a>
+<a href="https://miamibankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">miamibankruptcymill.com</a>
+<a href="https://denverbankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">denverbankruptcymill.com</a>
+<a href="https://losangelesbankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">losangelesbankruptcymill.com</a>
+<a href="https://stlouisbankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">stlouisbankruptcymill.com</a>
+<a href="https://birminghambankruptcymill.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">birminghambankruptcymill.com</a>
+<a href="https://filebankruptcywithoutlawyer.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">filebankruptcywithoutlawyer.com</a>
+<a href="https://keepmycarinbankruptcy.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">keepmycarinbankruptcy.com</a>
+<a href="https://keepmyhouseinbankruptcy.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">keepmyhouseinbankruptcy.com</a>
+<a href="https://howmuchdoesbankruptcycost.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">howmuchdoesbankruptcycost.com</a>
+<a href="https://rebuildcreditafterbankruptcy.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">rebuildcreditafterbankruptcy.com</a>
+<a href="https://buyahouseafterbankruptcy.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">buyahouseafterbankruptcy.com</a>
+<a href="https://buyacarafterbankruptcy.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">buyacarafterbankruptcy.com</a>
+<a href="https://bankruptcydenied.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">bankruptcydenied.com</a>
+<a href="https://bankruptcyexemptionsbystate.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">bankruptcyexemptionsbystate.com</a>
+<a href="https://firedbymybankruptcylawyer.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">firedbymybankruptcylawyer.com</a>
+<a href="https://mybankruptcylawyerwontcallback.com" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">mybankruptcylawyerwontcallback.com</a>
+<a href="https://kansascitybankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">kansascitybankruptcy.org</a>
+<a href="https://bankruptcykansascity.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">bankruptcykansascity.org</a>
+<a href="https://missouribankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">missouribankruptcy.org</a>
+<a href="https://illinoisbankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">illinoisbankruptcy.org</a>
+<a href="https://ohiobankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">ohiobankruptcy.org</a>
+<a href="https://georgiabankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">georgiabankruptcy.org</a>
+<a href="https://coloradobankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">coloradobankruptcy.org</a>
+<a href="https://minnesotabankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">minnesotabankruptcy.org</a>
+<a href="https://newyorkbankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">newyorkbankruptcy.org</a>
+<a href="https://delawarebankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">delawarebankruptcy.org</a>
+<a href="https://marylandbankruptcy.org" rel="noopener" style="background:#21262d;color:#58a6ff;padding:5px 12px;border-radius:14px;font-size:0.78rem;border:1px solid #30363d;text-decoration:none;" target="_blank">marylandbankruptcy.org</a>
+</div>
+<p style="color:#8b949e;font-size:0.82rem;margin-top:16px;margin-bottom:0;text-align:center;font-style:italic;">170+ domains. 2,500+ pages. $0 advertising. No lead generation. Just information.</p>
+</div>
+</details>
+</div>
+</div>
+<script>document.querySelector('#obp-network-showcase details').addEventListener('toggle',function(){this.querySelector('.obp-toggle').textContent=this.open?'−':'+';})</script>
+<!-- End Network Showcase -->
+<!-- Related Kansas City Bankruptcy Resources -->
+<div style="max-width:900px;margin:2rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">Related Kansas City Bankruptcy Resources</p>
+<ul style="list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:0.5rem">
+<li><a href="/" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Kansas City Bankruptcy Guide</a></li>
+<li><a href="/chapter-7.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Chapter 7 in Kansas City</a></li>
+<li><a href="/chapter-13.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Chapter 13 in Kansas City</a></li>
+<li><a href="/means-test.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Kansas City Means Test</a></li>
+<li><a href="/exemptions.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Missouri &amp; Kansas Exemptions</a></li>
+<li><a href="/cost.html" style="color:#58a6ff;text-decoration:none;background:#21262d;padding:5px 12px;border-radius:14px;font-size:0.85rem;border:1px solid #30363d;display:inline-block">Bankruptcy Cost in KC</a></li>
+</ul>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<div class="container">
+<p>An <a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a> resource</p>
+<p>Data sourced from the <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database (2008--2024).</p>
+<p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
+<p>© 2026 Open Bankruptcy Project. <a href="https://github.com/openbankruptcyproject">GitHub</a></p>
+</div></footer>
+<!-- BTN:FOOTER:END -->
+<script defer="" src="/btn-engage.js"></script>
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=kansascitybankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=kansascitybankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=kansascitybankruptcy.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+</ul>
+</div>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>
