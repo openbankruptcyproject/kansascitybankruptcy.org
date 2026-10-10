@@ -1338,7 +1338,7 @@ $1,738
 
 Chapter 11 Filing Fee
 
-$7.5M
+$3.42M
 
 Subchapter V Debt Limit
 
@@ -1380,7 +1380,7 @@ To elect Subchapter V, a debtor must meet all of the following requirements:
 
 Engaged in commercial or business activities. The debtor must be a person or entity engaged in business (this includes sole proprietors, LLCs, corporations, and partnerships).
 
-Aggregate debts of no more than $7.5 million. This limit, originally $2,725,625, was raised by the CARES Act and subsequently extended by Congress. Both secured and unsecured debts count toward the cap.
+Aggregate debts of no more than $3,424,000. This limit, originally $2,725,625, was raised to $7.5 million by the CARES Act, extended by Congress, and expired June 21, 2024. H.R. 7730, passed by Congress on September 28, 2026 but not yet signed, would restore $7,500,000 for cases filed after enactment. Both secured and unsecured debts count toward the cap.
 
 At least 50% of debts from business activities. This requirement applies only to individuals and ensures that Subchapter V is used for genuinely business-related reorganizations rather than as an alternative to Chapter 13 for consumer debts.
 
@@ -1604,7 +1604,7 @@ Chapter 11 is a type of bankruptcy designed for business reorganization. Unlike 
 
 What is Subchapter V and who qualifies?
 
-Subchapter V is a streamlined version of Chapter 11 for small businesses with debts under $7.5 million, where at least 50% of debts are from business activities. It eliminates the creditors' committee, removes the disclosure statement requirement, and lets the debtor keep the business even if creditors object. Created by the Small Business Reorganization Act of 2019.
+Subchapter V is a streamlined version of Chapter 11 for small businesses with debts up to $3,424,000, where at least 50% of debts are from business activities. It eliminates the creditors' committee, removes the disclosure statement requirement, and lets the debtor keep the business even if creditors object. Created by the Small Business Reorganization Act of 2019.
 
 How much does Chapter 11 cost in Kansas City?
 
@@ -1758,7 +1758,7 @@ Chapter 13 Eligibility in Kansas City
 
 Chapter 13 has no means test, but you need regular income and your debts must fall within limits. Here is what qualifies you to file in the Western District of Missouri or the District of Kansas.
 
-Quick answer: You qualify for Chapter 13 if you are an individual with regular income and your total noncontingent, liquidated debts (secured + unsecured combined) do not exceed $2,750,000. No means test. Prior filing bars: 4 years after a Chapter 7 discharge, 2 years after a Chapter 13 discharge.
+Quick answer: You qualify for Chapter 13 if you are an individual with regular income and your noncontingent, liquidated debts are under $526,700 unsecured and $1,580,125 secured. No means test. Prior filing bars: 4 years after a Chapter 7 discharge, 2 years after a Chapter 13 discharge.
 
 Debt Limits
 
@@ -1766,9 +1766,9 @@ Under the Bankruptcy Threshold Adjustment and Technical Corrections Act of 2022 
 
 RequirementLimit
 
-Total noncontingent, liquidated debts (secured + unsecured)$2,750,000
+Unsecured debts under $526,700; secured debts under $1,580,125
 
-This replaced the prior separate limits ($465,275 unsecured / $1,395,875 secured). Most Kansas City filers are well within this threshold. If your debts exceed $2,750,000, Chapter 11 (including Subchapter V) may be an option.
+A temporary combined limit of $2,750,000 expired on June 21, 2024, and the separate limits returned. Congress passed H.R. 7730 on September 28, 2026 to replace them with a single $2,750,000 limit; it has not been signed into law, and if enacted it applies only to cases filed on or after the date of enactment. Most Kansas City filers are well within the limits. If your debts exceed them, Chapter 11 (including Subchapter V) may be an option.
 
 What counts: Only noncontingent (not dependent on a future event) and liquidated (amount is known or easily calculable) debts count toward the limit. Disputed debts, contingent claims, and unliquidated amounts do not count.
 
@@ -1846,7 +1846,7 @@ Corporations, LLCs, partnerships: Only individuals can file Chapter 13
 
 Stockbrokers and commodity brokers: Excluded by statute
 
-Debtors with debts exceeding $2,750,000: Must use Chapter 11 or Subchapter V
+Debtors with debts at or above $526,700 unsecured or $1,580,125 secured: Must use Chapter 11 or Subchapter V
 
 Debtors without regular income: No ability to fund a plan
 
@@ -1882,7 +1882,7 @@ Frequently Asked Questions
 
 What are the debt limits for Chapter 13?
 
-$2,750,000 in total combined secured and unsecured noncontingent, liquidated debts. This replaced the old separate limits. Most KC filers are within this threshold.
+$526,700 in unsecured and $1,580,125 in secured noncontingent, liquidated debts (effective April 1, 2025). The temporary $2,750,000 combined limit expired June 21, 2024. Most KC filers are within these limits.
 
 Do I need regular income to file Chapter 13?
 
@@ -2911,7 +2911,7 @@ No means test required
 
 Must have regular income sufficient to fund a plan
 
-Secured debts must be under $2,750,000 and unsecured debts under $2,750,000 (2026 limits)
+Unsecured debts must be under $526,700 and secured debts under $1,580,125 (limits effective April 1, 2025; H.R. 7730, passed by Congress September 28, 2026 but not yet signed, would replace them with a single $2,750,000 limit for cases filed after enactment)
 
 Must complete credit counseling within 180 days before filing
 
@@ -12684,7 +12684,7 @@ Requirements
 
 Case must not have been previously converted from Chapter 13 or another chapter
 
-You must be eligible for Chapter 13: regular income and debts within limits ($2.75 million combined)
+You must be eligible for Chapter 13: regular income and debts within the section 109(e) limits (less than $526,700 unsecured and $1,580,125 secured; H.R. 7730, passed by Congress September 28, 2026 but not yet signed, would replace them with a single $2,750,000 limit for cases filed after enactment)
 
 Conversion fee: $25
 
@@ -16418,7 +16418,7 @@ What Disqualifies You From Filing Bankruptcy?
 
 Most people can file bankruptcy. But certain prior filings, timing issues, and eligibility requirements can create bars. Here is the complete list of what might prevent you from filing - and what you can do about it.
 
-Quick answer: The most common disqualifiers are: prior discharge within the waiting period (8 years for Ch 7-to-7, 4 years for Ch 7-to-13, 2 years for Ch 13-to-13), income above the means test threshold (Ch 7 only), failure to complete credit counseling, case dismissed within 180 days under section 109(g), and debts exceeding $2.75M (Ch 13 only).
+Quick answer: The most common disqualifiers are: prior discharge within the waiting period (8 years for Ch 7-to-7, 4 years for Ch 7-to-13, 2 years for Ch 13-to-13), income above the means test threshold (Ch 7 only), failure to complete credit counseling, case dismissed within 180 days under section 109(g), and debts at or above the Chapter 13 limits of $526,700 unsecured or $1,580,125 secured (Ch 13 only).
 
 Prior Discharge Waiting Periods
 
@@ -16482,13 +16482,13 @@ Limited exceptions exist for emergencies (exigent circumstances) and when no app
 
 Debt Limits (Chapter 13 Only)
 
-Chapter 13 has a combined debt limit of $2,750,000 in total noncontingent, liquidated secured and unsecured debts. If your debts exceed this, Chapter 13 is not available. Options:
+Chapter 13 has two separate debt limits: noncontingent, liquidated unsecured debts must be less than $526,700 and secured debts less than $1,580,125 (cases filed April 1, 2025 through March 31, 2028). Congress passed H.R. 7730 on September 28, 2026 to replace them with a single $2,750,000 limit; it has not been signed into law, and if enacted it applies only to cases filed on or after the date of enactment. If your debts exceed the current limits, Chapter 13 is not available. Options:
 
 Chapter 7: No debt limits (but must pass means test)
 
 Chapter 11: No debt limits, available for individuals and businesses
 
-Subchapter V (small business): Streamlined Chapter 11 for debts under $7.5 million
+Subchapter V (small business): Streamlined Chapter 11 for debts up to $3,424,000 (H.R. 7730, passed by Congress but not yet signed, would raise this to $7,500,000)
 
 See Chapter 13 eligibility for details.
 
@@ -16528,7 +16528,7 @@ Dismissed within 180 days (109(g))Bars filingBars filing
 
 No credit counselingCase dismissedCase dismissed
 
-Debts over $2.75MNo barrierBars filing
+Debts over the 109(e) limitsNo barrierBars filing
 
 No regular incomeNo barrierBars filing
 
@@ -16544,7 +16544,7 @@ Failing the means test, prior Chapter 7 discharge within 8 years, prior Chapter 
 
 What disqualifies you from Chapter 13?
 
-Debts over $2.75M, no regular income, not being an individual, prior Chapter 7 discharge within 4 years, prior Chapter 13 discharge within 2 years, no credit counseling, and dismissal within 180 days.
+Debts at or above the section 109(e) limits ($526,700 unsecured or $1,580,125 secured), no regular income, not being an individual, prior Chapter 7 discharge within 4 years, prior Chapter 13 discharge within 2 years, no credit counseling, and dismissal within 180 days.
 
 How long between bankruptcy filings?
 
@@ -19061,7 +19061,7 @@ A type of bankruptcy that eliminates most unsecured debts in approximately 3 to 
 
 Chapter 11
 
-A type of bankruptcy designed for business reorganization. The debtor typically remains in control of the business as a debtor in possession and proposes a plan to restructure debts. Subchapter V, added in 2019, streamlines the process for small businesses with debts under $7.5 million. Chapter 11 is more complex and expensive than Chapters 7 or 13, but it allows a business to continue operating while reorganizing. Full Chapter 11 guide.
+A type of bankruptcy designed for business reorganization. The debtor typically remains in control of the business as a debtor in possession and proposes a plan to restructure debts. Subchapter V, added in 2019, streamlines the process for small businesses with debts up to $3,424,000. Chapter 11 is more complex and expensive than Chapters 7 or 13, but it allows a business to continue operating while reorganizing. Full Chapter 11 guide.
 
 Chapter 12
 
@@ -24626,7 +24626,7 @@ Chapter 11 Sub V - Reorganize
 
 Business keeps operating
 
-Debts up to $7.5 million
+Debts up to $3,424,000
 
 Streamlined - no creditors committee
 
@@ -24678,7 +24678,7 @@ Who Qualifies for Subchapter V?
 
 Must be engaged in commercial or business activities (not just holding investment property)
 
-Aggregate non-contingent, liquidated debts must not exceed $7.5 million
+Aggregate non-contingent, liquidated debts must not exceed $3,424,000
 
 At least 50% of debts must arise from commercial or business activities
 
@@ -24776,11 +24776,11 @@ Frequently Asked Questions
 
 What bankruptcy options do small businesses have in Kansas City?
 
-Small businesses in Kansas City have three main options: Chapter 7 liquidation (closing the business and eliminating debts), Chapter 11 Subchapter V (reorganizing with streamlined procedures for businesses with under $7.5 million in debt), and Chapter 13 for sole proprietors. The best choice depends on whether you want to continue operating.
+Small businesses in Kansas City have three main options: Chapter 7 liquidation (closing the business and eliminating debts), Chapter 11 Subchapter V (reorganizing with streamlined procedures for businesses with up to $3,424,000 in debt), and Chapter 13 for sole proprietors. The best choice depends on whether you want to continue operating.
 
 What is Subchapter V and who qualifies?
 
-Subchapter V of Chapter 11, created by the Small Business Reorganization Act of 2019, provides a faster and less expensive path for small business reorganization. To qualify, you must be engaged in commercial or business activities, have aggregate debts of no more than $7.5 million, and at least 50% of your debts must come from business activities. There is no creditors committee and no disclosure statement requirement.
+Subchapter V of Chapter 11, created by the Small Business Reorganization Act of 2019, provides a faster and less expensive path for small business reorganization. To qualify, you must be engaged in commercial or business activities, have aggregate debts of no more than $3,424,000, and at least 50% of your debts must come from business activities. There is no creditors committee and no disclosure statement requirement.
 
 Can a sole proprietor file Chapter 13 for business debts?
 
