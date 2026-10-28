@@ -25345,15 +25345,17 @@ Federal student loans offer several income-driven plans that cap monthly payment
 
 PlanPayment CapForgiveness After
 
-SAVE (formerly REPAYE)5-10% of discretionary income20-25 years
+Repayment Assistance Plan (RAP)1-10% of adjusted gross income30 years
 
 PAYE10% of discretionary income20 years
 
 IBR10-15% of discretionary income20-25 years
 
-ICR20% of discretionary income25 years
+ICRLesser of 20% of discretionary income or a 12-year fixed amount25 years
 
-Payments can be as low as $0/month if your income is below 225% of the poverty line (under SAVE). Check StudentAid.gov for current program details.
+SAVE (formerly REPAYE)Ended by court order March 10, 2026n/a
+
+IBR payments can be as low as $0/month if your income is at or below 150% of the poverty guideline. PAYE and ICR are open only to limited groups and end June 30, 2028. Check StudentAid.gov for current program details.
 
 Other Forgiveness Programs
 
@@ -25403,7 +25405,7 @@ Yes. Courts can discharge part of your debt - for example, eliminating accrued i
 
 What are alternatives to discharging student loans in bankruptcy?
 
-Alternatives include income-driven repayment plans (SAVE, PAYE, IBR), Public Service Loan Forgiveness, teacher loan forgiveness, total and permanent disability discharge, and borrower defense to repayment. Chapter 13 also places federal loans in forbearance during your plan.
+Alternatives include income-driven repayment plans (such as IBR and the Repayment Assistance Plan), Public Service Loan Forgiveness, teacher loan forgiveness, total and permanent disability discharge, and borrower defense to repayment. Chapter 13 also places federal loans in forbearance during your plan.
 
 Learn More About Student Loans and Bankruptcy
 
